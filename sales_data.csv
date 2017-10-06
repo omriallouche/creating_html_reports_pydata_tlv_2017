@@ -1,0 +1,1001 @@
+,date,company_name,sales_person,client,industry,status,amount
+0,9/7/2017,Realbridge,Jami McGarvie,Runte Group,Motor Vehicles,,170000
+1,1/14/2017,Browsedrive,Romola Krugmann,Bernhard-Bogan,Specialty Insurers,,230000
+2,3/27/2017,Skinder,Amelie Buche,"Grady, Gaylord and Mosciski",n/a,Lost,70000
+3,2/22/2017,Realbridge,Darcie Felipe,Greenholt LLC,Industrial Machinery/Components,,210000
+4,5/7/2017,Browsedrive,Ami Perrottet,"Hyatt, Dickens and West",Telecommunications Equipment,,90000
+5,11/6/2016,Skinder,Brit Duggan,Schaefer Inc,Catalog/Specialty Distribution,,140000
+6,10/18/2016,Realbridge,Corbet Strettell,"Bernier, Quitzon and Hayes",Diversified Commercial Services,Lost,120000
+7,7/14/2017,Browsedrive,Fina Crane,Hammes LLC,Motor Vehicles,,160000
+8,10/5/2016,Skinder,Waverly Demangeon,"Mosciski, Yost and O'Kon",Specialty Insurers,Won,80000
+9,2/14/2017,Realbridge,Zollie Graham,Feil Group,n/a,,50000
+10,8/8/2017,Browsedrive,Francoise Romain,Abshire-Pagac,Industrial Machinery/Components,Won,60000
+11,12/23/2016,Skinder,Ealasaid Douris,Schroeder-West,Telecommunications Equipment,,70000
+12,11/25/2016,Realbridge,Melinde Vickerman,Krajcik-Hand,Catalog/Specialty Distribution,Won,210000
+13,6/10/2017,Browsedrive,Westley Blesing,Wunsch-Tromp,Diversified Commercial Services,Lost,110000
+14,8/5/2017,Skinder,Cynde Aggio,Grady-Hermiston,Motor Vehicles,Won,110000
+15,11/4/2016,Realbridge,Zita Laurant,Herman-Willms,Specialty Insurers,Lost,230000
+16,11/17/2016,Browsedrive,Durand Andryunin,Bayer-Breitenberg,n/a,,60000
+17,3/5/2017,Skinder,Christye Jeffcoat,Schmitt Inc,Industrial Machinery/Components,Won,50000
+18,9/11/2017,Realbridge,Suzann Saunt,Nikolaus-Pouros,Telecommunications Equipment,,180000
+19,2/8/2017,Browsedrive,Nessa Armell,Bednar-Feil,Catalog/Specialty Distribution,Won,190000
+20,6/28/2017,Skinder,Wileen Castagneto,Kulas and Sons,Diversified Commercial Services,Won,70000
+21,8/17/2017,Realbridge,Yovonnda MacNelly,Davis-Smith,Motor Vehicles,Won,220000
+22,1/26/2017,Browsedrive,Bogart Guyonneau,"Gutmann, Lockman and Medhurst",Specialty Insurers,Won,170000
+23,4/4/2017,Skinder,Ingeberg Geater,Hand-Kling,n/a,Won,230000
+24,4/20/2017,Realbridge,Dagny Nitti,Luettgen-Schneider,Industrial Machinery/Components,Won,130000
+25,5/16/2017,Browsedrive,Edee Beminster,"Trantow, Mayert and Conn",Telecommunications Equipment,,230000
+26,12/28/2016,Skinder,Hunt Cominoli,Johns Group,Catalog/Specialty Distribution,Lost,80000
+27,1/16/2017,Realbridge,Cassandre Heckner,"King, Gleason and Zboncak",Diversified Commercial Services,,90000
+28,3/9/2017,Browsedrive,Anatola Pundy,Green Inc,Motor Vehicles,,220000
+29,1/4/2017,Skinder,Sisely Pinnere,Gerhold-McGlynn,Specialty Insurers,Lost,170000
+30,2/10/2017,Realbridge,Jami McGarvie,Keeling Group,n/a,,80000
+31,10/13/2016,Browsedrive,Romola Krugmann,Wolf-McClure,Industrial Machinery/Components,,230000
+32,2/14/2017,Skinder,Amelie Buche,Tremblay Group,Telecommunications Equipment,Won,220000
+33,8/1/2017,Realbridge,Darcie Felipe,Keebler Inc,Catalog/Specialty Distribution,,160000
+34,9/8/2017,Browsedrive,Ami Perrottet,Rempel-Ward,Diversified Commercial Services,,80000
+35,1/1/2017,Skinder,Brit Duggan,Lubowitz LLC,Motor Vehicles,Lost,70000
+36,5/21/2017,Realbridge,Corbet Strettell,Bailey-Crona,Specialty Insurers,,200000
+37,11/15/2016,Browsedrive,Fina Crane,Runte Group,n/a,Won,80000
+38,9/24/2017,Skinder,Waverly Demangeon,Collins Inc,Industrial Machinery/Components,,170000
+39,9/30/2017,Realbridge,Zollie Graham,"Dietrich, Sporer and Toy",Telecommunications Equipment,Won,140000
+40,2/17/2017,Browsedrive,Francoise Romain,"Baumbach, O'Conner and Johnson",Catalog/Specialty Distribution,Won,180000
+41,3/12/2017,Skinder,Jami McGarvie,"Predovic, Harvey and Terry",Diversified Commercial Services,Lost,100000
+42,2/26/2017,Realbridge,Romola Krugmann,Beer-Mohr,Motor Vehicles,Lost,100000
+43,9/7/2017,Browsedrive,Amelie Buche,Mohr and Sons,Specialty Insurers,Lost,120000
+44,9/11/2017,Skinder,Darcie Felipe,Pacocha-Sawayn,n/a,,140000
+45,5/5/2017,Realbridge,Ami Perrottet,Schoen Group,Industrial Machinery/Components,Won,70000
+46,11/2/2016,Browsedrive,Brit Duggan,Rice and Sons,Telecommunications Equipment,,80000
+47,10/16/2016,Skinder,Corbet Strettell,Torp-Jacobi,Catalog/Specialty Distribution,Lost,110000
+48,8/15/2017,Realbridge,Fina Crane,"Kemmer, Howe and Grant",Diversified Commercial Services,,80000
+49,6/10/2017,Browsedrive,Waverly Demangeon,"Cole, Towne and Larkin",Motor Vehicles,,140000
+50,11/14/2016,Skinder,Zollie Graham,"Smith, Becker and Block",Specialty Insurers,,140000
+51,4/15/2017,Realbridge,Francoise Romain,Morar Group,n/a,Lost,110000
+52,5/26/2017,Browsedrive,Ealasaid Douris,"Stracke, Legros and O'Reilly",Industrial Machinery/Components,Won,170000
+53,3/15/2017,Skinder,Melinde Vickerman,Wolff-Kuhlman,Telecommunications Equipment,,60000
+54,8/6/2017,Realbridge,Westley Blesing,Carroll Inc,Catalog/Specialty Distribution,,90000
+55,10/1/2016,Browsedrive,Cynde Aggio,"Haley, Kreiger and Sporer",Diversified Commercial Services,Won,100000
+56,1/26/2017,Skinder,Zita Laurant,Denesik-Bartell,Motor Vehicles,,180000
+57,7/17/2017,Realbridge,Durand Andryunin,Oberbrunner-Kub,Specialty Insurers,Won,130000
+58,3/8/2017,Browsedrive,Christye Jeffcoat,McClure-Schinner,n/a,Lost,200000
+59,11/26/2016,Skinder,Suzann Saunt,Conroy-Waters,Industrial Machinery/Components,Lost,220000
+60,2/8/2017,Realbridge,Nessa Armell,Kilback-Wintheiser,Telecommunications Equipment,,120000
+61,6/8/2017,Browsedrive,Wileen Castagneto,"Nolan, Abbott and Dooley",Catalog/Specialty Distribution,,110000
+62,8/19/2017,Skinder,Yovonnda MacNelly,Prohaska-Mohr,Diversified Commercial Services,,140000
+63,8/4/2017,Realbridge,Bogart Guyonneau,"Lesch, Zulauf and Pfeffer",Motor Vehicles,,90000
+64,1/4/2017,Browsedrive,Ingeberg Geater,"Kirlin, Koelpin and Skiles",Specialty Insurers,,130000
+65,4/25/2017,Skinder,Dagny Nitti,"Schinner, Stokes and Batz",n/a,Won,230000
+66,12/5/2016,Realbridge,Edee Beminster,Hirthe Inc,Industrial Machinery/Components,,180000
+67,1/5/2017,Browsedrive,Hunt Cominoli,Grant and Sons,Telecommunications Equipment,,190000
+68,12/21/2016,Skinder,Cassandre Heckner,Daugherty Inc,Catalog/Specialty Distribution,,50000
+69,8/16/2017,Realbridge,Anatola Pundy,Welch Group,Diversified Commercial Services,Won,180000
+70,4/12/2017,Browsedrive,Sisely Pinnere,"Quigley, Yost and Stamm",Motor Vehicles,Lost,190000
+71,8/30/2017,Skinder,Jami McGarvie,Johns LLC,Specialty Insurers,,110000
+72,1/30/2017,Realbridge,Romola Krugmann,Nader-Cruickshank,n/a,,160000
+73,12/17/2016,Browsedrive,Amelie Buche,"Marquardt, Willms and Runolfsdottir",Industrial Machinery/Components,Lost,130000
+74,12/6/2016,Skinder,Darcie Felipe,Ratke-Herman,Telecommunications Equipment,,160000
+75,1/10/2017,Realbridge,Ami Perrottet,Kris-Turcotte,Catalog/Specialty Distribution,Won,60000
+76,7/25/2017,Browsedrive,Brit Duggan,"Treutel, Fadel and Bailey",Diversified Commercial Services,,140000
+77,6/30/2017,Skinder,Corbet Strettell,Kunde-Sipes,Motor Vehicles,,200000
+78,12/7/2016,Realbridge,Fina Crane,Barton Group,Specialty Insurers,,120000
+79,7/29/2017,Browsedrive,Waverly Demangeon,Pollich-Bailey,n/a,Lost,110000
+80,7/19/2017,Skinder,Zollie Graham,"McLaughlin, Leannon and Franecki",Industrial Machinery/Components,,130000
+81,2/10/2017,Realbridge,Francoise Romain,Hoppe and Sons,Telecommunications Equipment,,80000
+82,12/26/2016,Browsedrive,Ealasaid Douris,Walker-Deckow,Catalog/Specialty Distribution,Lost,180000
+83,7/25/2017,Skinder,Melinde Vickerman,Little-Langosh,Diversified Commercial Services,Won,90000
+84,8/8/2017,Realbridge,Westley Blesing,Collins-Adams,Motor Vehicles,Lost,120000
+85,8/14/2017,Browsedrive,Cynde Aggio,Jacobson-Conn,Specialty Insurers,Lost,170000
+86,10/16/2016,Skinder,Zita Laurant,Kling-Becker,n/a,Lost,70000
+87,7/24/2017,Realbridge,Durand Andryunin,"Little, DuBuque and Schultz",Industrial Machinery/Components,Lost,50000
+88,4/30/2017,Browsedrive,Christye Jeffcoat,"Kris, Haag and Kuhlman",Telecommunications Equipment,Lost,170000
+89,8/16/2017,Skinder,Suzann Saunt,Ruecker Inc,Catalog/Specialty Distribution,Won,220000
+90,1/19/2017,Realbridge,Nessa Armell,"Hilpert, Hyatt and Jacobson",Diversified Commercial Services,,230000
+91,8/28/2017,Browsedrive,Wileen Castagneto,Corwin-Renner,Motor Vehicles,Won,160000
+92,11/14/2016,Skinder,Yovonnda MacNelly,"Hessel, Heller and Waelchi",Specialty Insurers,Lost,120000
+93,9/30/2017,Realbridge,Bogart Guyonneau,Huels LLC,n/a,,50000
+94,6/20/2017,Browsedrive,Ingeberg Geater,Nader-Jacobi,Industrial Machinery/Components,Won,130000
+95,6/7/2017,Skinder,Dagny Nitti,Stroman Inc,Telecommunications Equipment,Won,70000
+96,6/25/2017,Realbridge,Edee Beminster,Schoen Inc,Catalog/Specialty Distribution,Won,180000
+97,8/25/2017,Browsedrive,Hunt Cominoli,Gibson LLC,Diversified Commercial Services,Won,130000
+98,6/17/2017,Skinder,Cassandre Heckner,Larkin LLC,Motor Vehicles,,230000
+99,2/21/2017,Realbridge,Anatola Pundy,"McDermott, Koelpin and Weber",Specialty Insurers,Lost,190000
+100,3/18/2017,Browsedrive,Sisely Pinnere,Steuber LLC,n/a,,180000
+101,12/5/2016,Skinder,Jami McGarvie,Bogisich and Sons,Industrial Machinery/Components,,160000
+102,2/5/2017,Realbridge,Romola Krugmann,Bruen-Hoppe,Telecommunications Equipment,Lost,190000
+103,9/6/2017,Browsedrive,Amelie Buche,"Brown, Hermiston and Heathcote",Catalog/Specialty Distribution,Lost,220000
+104,12/11/2016,Skinder,Darcie Felipe,Hettinger-Hammes,Diversified Commercial Services,Won,130000
+105,7/9/2017,Realbridge,Ami Perrottet,Olson and Sons,Motor Vehicles,Lost,70000
+106,7/26/2017,Browsedrive,Brit Duggan,Welch-Leffler,Specialty Insurers,,100000
+107,7/17/2017,Skinder,Corbet Strettell,"Cassin, Ritchie and Kuphal",n/a,Won,190000
+108,3/5/2017,Realbridge,Fina Crane,"Champlin, Kemmer and Corkery",Industrial Machinery/Components,Won,180000
+109,4/18/2017,Browsedrive,Waverly Demangeon,Rodriguez LLC,Telecommunications Equipment,,50000
+110,7/5/2017,Skinder,Zollie Graham,Miller Inc,Catalog/Specialty Distribution,Won,100000
+111,1/7/2017,Realbridge,Francoise Romain,Turcotte Inc,Diversified Commercial Services,,60000
+112,4/20/2017,Browsedrive,Ealasaid Douris,"Hintz, Kautzer and Ullrich",Motor Vehicles,Lost,120000
+113,5/16/2017,Skinder,Melinde Vickerman,Kerluke LLC,Specialty Insurers,,210000
+114,12/17/2016,Realbridge,Westley Blesing,Schuppe-Hoppe,n/a,Won,70000
+115,3/7/2017,Browsedrive,Cynde Aggio,"Mohr, Dietrich and Huel",Industrial Machinery/Components,,60000
+116,7/25/2017,Skinder,Zita Laurant,Heaney Group,Telecommunications Equipment,,220000
+117,1/11/2017,Realbridge,Durand Andryunin,Glover and Sons,Catalog/Specialty Distribution,Won,200000
+118,1/6/2017,Browsedrive,Christye Jeffcoat,Jenkins-Ledner,Diversified Commercial Services,Won,150000
+119,10/6/2016,Skinder,Suzann Saunt,Breitenberg-McGlynn,Motor Vehicles,,170000
+120,6/29/2017,Realbridge,Nessa Armell,Bergstrom Group,Specialty Insurers,Lost,200000
+121,8/29/2017,Browsedrive,Wileen Castagneto,"Schneider, Stamm and Mueller",n/a,Lost,50000
+122,1/9/2017,Skinder,Yovonnda MacNelly,Ziemann-Medhurst,Industrial Machinery/Components,Lost,220000
+123,9/22/2017,Realbridge,Bogart Guyonneau,Bernhard-Streich,Telecommunications Equipment,Lost,230000
+124,4/27/2017,Browsedrive,Ingeberg Geater,Quitzon Group,Catalog/Specialty Distribution,,220000
+125,6/29/2017,Skinder,Dagny Nitti,"Quitzon, Stokes and Crooks",Diversified Commercial Services,Won,50000
+126,5/24/2017,Realbridge,Edee Beminster,Kassulke-Nikolaus,Motor Vehicles,,160000
+127,1/6/2017,Browsedrive,Hunt Cominoli,Becker-Steuber,Specialty Insurers,Won,90000
+128,10/22/2016,Skinder,Cassandre Heckner,Grant LLC,n/a,Lost,180000
+129,2/14/2017,Realbridge,Anatola Pundy,"Corkery, Kassulke and Harris",Industrial Machinery/Components,Lost,230000
+130,1/5/2017,Browsedrive,Sisely Pinnere,Mills-Halvorson,Telecommunications Equipment,,100000
+131,4/12/2017,Skinder,Jami McGarvie,Koelpin-Hessel,Catalog/Specialty Distribution,Won,80000
+132,12/20/2016,Realbridge,Romola Krugmann,Bernier LLC,Diversified Commercial Services,,120000
+133,3/28/2017,Browsedrive,Amelie Buche,Buckridge and Sons,Motor Vehicles,Won,160000
+134,12/4/2016,Skinder,Darcie Felipe,"Little, Rolfson and Kassulke",Specialty Insurers,,70000
+135,2/20/2017,Realbridge,Ami Perrottet,"Mohr, Kessler and Wiegand",n/a,,50000
+136,1/20/2017,Browsedrive,Brit Duggan,Bruen-Langosh,Industrial Machinery/Components,Won,160000
+137,12/17/2016,Skinder,Corbet Strettell,"Mitchell, Medhurst and Dietrich",Telecommunications Equipment,,130000
+138,4/13/2017,Realbridge,Fina Crane,Gleichner and Sons,Catalog/Specialty Distribution,Lost,230000
+139,7/7/2017,Browsedrive,Waverly Demangeon,Morissette and Sons,Diversified Commercial Services,Lost,160000
+140,12/22/2016,Skinder,Zollie Graham,Kertzmann Group,Motor Vehicles,Lost,80000
+141,6/21/2017,Realbridge,Francoise Romain,Emard-Hermiston,Specialty Insurers,,220000
+142,2/7/2017,Browsedrive,Ealasaid Douris,Schumm-Jacobs,n/a,,100000
+143,6/4/2017,Skinder,Melinde Vickerman,Conn Inc,Industrial Machinery/Components,Lost,80000
+144,3/16/2017,Realbridge,Westley Blesing,Cruickshank Group,Telecommunications Equipment,Won,170000
+145,10/6/2016,Browsedrive,Cynde Aggio,Collins-Schaden,Catalog/Specialty Distribution,Lost,170000
+146,10/21/2016,Skinder,Zita Laurant,"Gibson, Koss and Corkery",Diversified Commercial Services,,140000
+147,8/21/2017,Realbridge,Durand Andryunin,Schultz and Sons,Motor Vehicles,Lost,90000
+148,7/11/2017,Browsedrive,Christye Jeffcoat,Emard Inc,Specialty Insurers,,130000
+149,10/17/2016,Skinder,Suzann Saunt,Nienow-Schiller,n/a,,210000
+150,1/4/2017,Realbridge,Nessa Armell,Kshlerin Group,Industrial Machinery/Components,Lost,70000
+151,8/12/2017,Browsedrive,Wileen Castagneto,Metz LLC,Telecommunications Equipment,Lost,170000
+152,1/8/2017,Skinder,Yovonnda MacNelly,Parisian-Schuppe,Catalog/Specialty Distribution,,160000
+153,6/13/2017,Realbridge,Bogart Guyonneau,"Dietrich, Rosenbaum and Christiansen",Diversified Commercial Services,,70000
+154,1/6/2017,Browsedrive,Ingeberg Geater,"Walter, Fisher and Bogan",Motor Vehicles,Won,220000
+155,11/23/2016,Skinder,Dagny Nitti,Lebsack Inc,Specialty Insurers,Lost,50000
+156,6/9/2017,Realbridge,Edee Beminster,VonRueden-Huel,n/a,Won,100000
+157,9/22/2017,Browsedrive,Hunt Cominoli,"Bartoletti, Conroy and Bode",Industrial Machinery/Components,Lost,160000
+158,6/6/2017,Skinder,Cassandre Heckner,"O'Keefe, Hermiston and Padberg",Telecommunications Equipment,Lost,110000
+159,9/3/2017,Realbridge,Anatola Pundy,Murray and Sons,Catalog/Specialty Distribution,Lost,210000
+160,10/2/2016,Browsedrive,Sisely Pinnere,Lemke Inc,Diversified Commercial Services,Lost,100000
+161,5/22/2017,Skinder,Jami McGarvie,"McKenzie, Jones and Kirlin",Motor Vehicles,,90000
+162,8/14/2017,Realbridge,Romola Krugmann,Greenholt Group,Specialty Insurers,,100000
+163,12/12/2016,Browsedrive,Amelie Buche,Brown-Herman,n/a,Lost,180000
+164,4/1/2017,Skinder,Darcie Felipe,"Welch, Towne and McCullough",Industrial Machinery/Components,Lost,90000
+165,3/3/2017,Realbridge,Ami Perrottet,Schulist-Wunsch,Telecommunications Equipment,Lost,140000
+166,2/2/2017,Browsedrive,Brit Duggan,Boehm Group,Catalog/Specialty Distribution,,170000
+167,6/1/2017,Skinder,Corbet Strettell,"Nicolas, Oberbrunner and Donnelly",Diversified Commercial Services,Lost,70000
+168,3/7/2017,Realbridge,Fina Crane,Kuhn LLC,Motor Vehicles,,140000
+169,10/25/2016,Browsedrive,Waverly Demangeon,"Bogisich, Effertz and McGlynn",Specialty Insurers,Lost,80000
+170,1/11/2017,Skinder,Zollie Graham,Dach Inc,n/a,,220000
+171,5/4/2017,Realbridge,Francoise Romain,Jacobi-Torp,Industrial Machinery/Components,Won,120000
+172,12/11/2016,Browsedrive,Ealasaid Douris,"Graham, Watsica and Bode",Telecommunications Equipment,Lost,220000
+173,8/25/2017,Skinder,Melinde Vickerman,Little and Sons,Catalog/Specialty Distribution,Lost,110000
+174,12/27/2016,Realbridge,Westley Blesing,Dickinson-Fahey,Diversified Commercial Services,,70000
+175,11/19/2016,Browsedrive,Cynde Aggio,Dickens Inc,Motor Vehicles,Won,170000
+176,10/5/2016,Skinder,Zita Laurant,Kovacek and Sons,Specialty Insurers,,150000
+177,5/25/2017,Realbridge,Durand Andryunin,Purdy-King,n/a,Won,120000
+178,7/19/2017,Browsedrive,Christye Jeffcoat,Durgan-Homenick,Industrial Machinery/Components,,200000
+179,2/21/2017,Skinder,Suzann Saunt,Aufderhar Group,Telecommunications Equipment,Lost,80000
+180,3/22/2017,Realbridge,Nessa Armell,"Kshlerin, White and Ebert",Catalog/Specialty Distribution,,210000
+181,10/16/2016,Browsedrive,Wileen Castagneto,Lueilwitz-Jaskolski,Diversified Commercial Services,,90000
+182,6/21/2017,Skinder,Yovonnda MacNelly,Schuppe-MacGyver,Motor Vehicles,Lost,150000
+183,2/11/2017,Realbridge,Bogart Guyonneau,"Gibson, Hills and Rohan",Specialty Insurers,Lost,230000
+184,8/14/2017,Browsedrive,Ingeberg Geater,"Cassin, Orn and Harber",n/a,Won,110000
+185,4/28/2017,Skinder,Dagny Nitti,Olson-Jacobs,Industrial Machinery/Components,Won,160000
+186,5/26/2017,Realbridge,Edee Beminster,"O'Conner, Marquardt and Rodriguez",Telecommunications Equipment,,130000
+187,8/15/2017,Browsedrive,Hunt Cominoli,"Baumbach, Bogan and Cremin",Catalog/Specialty Distribution,,70000
+188,9/13/2017,Skinder,Cassandre Heckner,Schneider-Crooks,Diversified Commercial Services,Won,210000
+189,7/1/2017,Realbridge,Anatola Pundy,Schinner LLC,Motor Vehicles,,50000
+190,3/20/2017,Browsedrive,Sisely Pinnere,"Runte, Stokes and Ferry",Specialty Insurers,Lost,170000
+191,8/26/2017,Skinder,Jami McGarvie,Goyette-Kreiger,n/a,Won,50000
+192,2/26/2017,Realbridge,Romola Krugmann,"Koch, Veum and Fay",Industrial Machinery/Components,Won,220000
+193,7/9/2017,Browsedrive,Amelie Buche,"Stark, Rosenbaum and Hayes",Telecommunications Equipment,,110000
+194,1/23/2017,Skinder,Darcie Felipe,Parker Inc,Catalog/Specialty Distribution,,100000
+195,6/7/2017,Realbridge,Ami Perrottet,"Dicki, West and Gulgowski",Diversified Commercial Services,Won,220000
+196,12/13/2016,Browsedrive,Brit Duggan,Baumbach LLC,Motor Vehicles,Lost,130000
+197,6/6/2017,Skinder,Corbet Strettell,Wiza-Fisher,Specialty Insurers,Lost,220000
+198,4/30/2017,Realbridge,Fina Crane,Adams-Kirlin,n/a,Lost,50000
+199,9/5/2017,Browsedrive,Waverly Demangeon,Simonis-Ratke,Industrial Machinery/Components,Lost,150000
+200,7/10/2017,Skinder,Zollie Graham,Powlowski-Trantow,Telecommunications Equipment,,150000
+201,1/18/2017,Realbridge,Francoise Romain,Stehr-Borer,Catalog/Specialty Distribution,,130000
+202,2/1/2017,Browsedrive,Ealasaid Douris,Schulist-Ferry,Diversified Commercial Services,Won,230000
+203,4/25/2017,Skinder,Melinde Vickerman,Ferry LLC,Motor Vehicles,Won,50000
+204,7/29/2017,Realbridge,Westley Blesing,Gerlach-Skiles,Specialty Insurers,,190000
+205,1/2/2017,Browsedrive,Cynde Aggio,Botsford Group,n/a,Lost,220000
+206,6/24/2017,Skinder,Zita Laurant,Corkery Inc,Industrial Machinery/Components,,190000
+207,10/27/2016,Realbridge,Durand Andryunin,Schinner and Sons,Telecommunications Equipment,Won,120000
+208,11/20/2016,Browsedrive,Christye Jeffcoat,Hartmann LLC,Catalog/Specialty Distribution,Lost,150000
+209,9/29/2017,Skinder,Suzann Saunt,"Becker, McGlynn and Rempel",Diversified Commercial Services,Won,60000
+210,6/6/2017,Realbridge,Nessa Armell,Walter and Sons,Motor Vehicles,Won,120000
+211,7/13/2017,Browsedrive,Wileen Castagneto,"VonRueden, Weimann and Bartoletti",Specialty Insurers,Won,210000
+212,4/17/2017,Skinder,Yovonnda MacNelly,Hammes LLC,n/a,Won,50000
+213,4/7/2017,Realbridge,Bogart Guyonneau,"Kshlerin, Boyle and Block",Industrial Machinery/Components,Won,70000
+214,11/13/2016,Browsedrive,Ingeberg Geater,Parisian-Luettgen,Telecommunications Equipment,Lost,190000
+215,5/10/2017,Skinder,Dagny Nitti,Funk Inc,Catalog/Specialty Distribution,Lost,190000
+216,5/2/2017,Realbridge,Edee Beminster,Buckridge Inc,Diversified Commercial Services,,210000
+217,8/19/2017,Browsedrive,Hunt Cominoli,"McGlynn, Pfeffer and Lemke",Motor Vehicles,Lost,80000
+218,11/29/2016,Skinder,Cassandre Heckner,Weissnat-Corkery,Specialty Insurers,Won,200000
+219,8/5/2017,Realbridge,Anatola Pundy,"Goldner, Gorczany and Bins",n/a,Lost,90000
+220,8/23/2017,Browsedrive,Sisely Pinnere,"Toy, Cormier and Schowalter",Industrial Machinery/Components,Lost,70000
+221,7/22/2017,Skinder,Jami McGarvie,"Hermiston, Toy and Thompson",Telecommunications Equipment,,80000
+222,3/17/2017,Realbridge,Romola Krugmann,Kerluke-Ebert,Catalog/Specialty Distribution,Lost,210000
+223,10/9/2016,Browsedrive,Amelie Buche,"Reilly, Beer and Lueilwitz",Diversified Commercial Services,Lost,180000
+224,7/30/2017,Skinder,Darcie Felipe,"Olson, Kemmer and Hermann",Motor Vehicles,Lost,120000
+225,7/8/2017,Realbridge,Ami Perrottet,Thompson-Douglas,Specialty Insurers,,130000
+226,2/2/2017,Browsedrive,Brit Duggan,Baumbach Inc,n/a,,220000
+227,4/14/2017,Skinder,Corbet Strettell,Hermiston Group,Industrial Machinery/Components,Lost,130000
+228,10/23/2016,Realbridge,Fina Crane,Adams LLC,Telecommunications Equipment,,210000
+229,2/21/2017,Browsedrive,Waverly Demangeon,"Schaefer, Turner and Nader",Catalog/Specialty Distribution,,200000
+230,6/14/2017,Skinder,Zollie Graham,Johnson-Doyle,Diversified Commercial Services,,200000
+231,4/30/2017,Realbridge,Francoise Romain,"O'Conner, Rutherford and Spinka",Motor Vehicles,,210000
+232,2/6/2017,Browsedrive,Ealasaid Douris,"Beier, Langworth and Schimmel",Specialty Insurers,,100000
+233,9/22/2017,Skinder,Melinde Vickerman,McClure-Beier,n/a,Won,150000
+234,10/1/2016,Realbridge,Westley Blesing,Macejkovic Inc,Industrial Machinery/Components,,110000
+235,8/25/2017,Browsedrive,Cynde Aggio,Price-Jones,Telecommunications Equipment,Lost,170000
+236,8/22/2017,Skinder,Zita Laurant,"Schneider, Mueller and Terry",Catalog/Specialty Distribution,Won,60000
+237,3/6/2017,Realbridge,Durand Andryunin,Kassulke Inc,Diversified Commercial Services,Lost,140000
+238,4/2/2017,Browsedrive,Christye Jeffcoat,Reynolds LLC,Motor Vehicles,Won,180000
+239,9/29/2017,Skinder,Suzann Saunt,"Adams, McGlynn and Leannon",Specialty Insurers,,120000
+240,4/29/2017,Realbridge,Nessa Armell,Kuvalis-Hermann,n/a,Lost,180000
+241,6/7/2017,Browsedrive,Wileen Castagneto,Jacobi and Sons,Industrial Machinery/Components,,150000
+242,9/15/2017,Skinder,Yovonnda MacNelly,O'Kon Inc,Telecommunications Equipment,Lost,110000
+243,8/5/2017,Realbridge,Bogart Guyonneau,Marks and Sons,Catalog/Specialty Distribution,Lost,230000
+244,2/5/2017,Browsedrive,Ingeberg Geater,"Brakus, Auer and Bayer",Diversified Commercial Services,,110000
+245,12/29/2016,Skinder,Dagny Nitti,Buckridge-Halvorson,Motor Vehicles,,80000
+246,3/28/2017,Realbridge,Edee Beminster,"Kirlin, McKenzie and Kerluke",Specialty Insurers,Lost,50000
+247,3/3/2017,Browsedrive,Hunt Cominoli,"Quigley, Langworth and Walsh",n/a,,230000
+248,12/8/2016,Skinder,Cassandre Heckner,Considine Group,Industrial Machinery/Components,Lost,230000
+249,9/23/2017,Realbridge,Anatola Pundy,Rolfson Inc,Telecommunications Equipment,,90000
+250,9/6/2017,Browsedrive,Sisely Pinnere,"Waelchi, Miller and Greenfelder",Catalog/Specialty Distribution,Won,160000
+251,3/25/2017,Skinder,Jami McGarvie,"Powlowski, Ullrich and Bayer",Diversified Commercial Services,,200000
+252,3/15/2017,Realbridge,Romola Krugmann,"Friesen, McLaughlin and Bode",Motor Vehicles,,130000
+253,4/9/2017,Browsedrive,Amelie Buche,Jones and Sons,Specialty Insurers,,60000
+254,12/24/2016,Skinder,Darcie Felipe,Bins-Runolfsdottir,n/a,Won,120000
+255,12/14/2016,Realbridge,Ami Perrottet,"Marquardt, Cassin and Corkery",Industrial Machinery/Components,Lost,90000
+256,4/15/2017,Browsedrive,Brit Duggan,"Brown, Hintz and Brown",Telecommunications Equipment,Lost,150000
+257,12/28/2016,Skinder,Corbet Strettell,Lynch and Sons,Catalog/Specialty Distribution,Lost,220000
+258,7/9/2017,Realbridge,Fina Crane,Ernser-Armstrong,Diversified Commercial Services,,190000
+259,2/11/2017,Browsedrive,Waverly Demangeon,Wolff Group,Motor Vehicles,,190000
+260,3/8/2017,Skinder,Zollie Graham,"Muller, Rohan and Dietrich",Specialty Insurers,,120000
+261,9/26/2017,Realbridge,Francoise Romain,"Jast, Schiller and Zieme",n/a,,90000
+262,5/10/2017,Browsedrive,Ealasaid Douris,Hoppe Inc,Industrial Machinery/Components,Lost,90000
+263,6/5/2017,Skinder,Melinde Vickerman,"Stokes, Haag and Ziemann",Telecommunications Equipment,Won,70000
+264,12/17/2016,Realbridge,Westley Blesing,Hagenes-Jones,Catalog/Specialty Distribution,,190000
+265,9/21/2017,Browsedrive,Cynde Aggio,"Legros, Franecki and Romaguera",Diversified Commercial Services,Lost,150000
+266,9/7/2017,Skinder,Zita Laurant,Brekke-Heller,Motor Vehicles,Lost,210000
+267,3/27/2017,Realbridge,Durand Andryunin,"Powlowski, Brown and Zulauf",Specialty Insurers,Won,210000
+268,9/20/2017,Browsedrive,Christye Jeffcoat,Smith-Hermann,n/a,Won,190000
+269,5/30/2017,Skinder,Suzann Saunt,"Johnston, Koepp and Mraz",Industrial Machinery/Components,,200000
+270,6/11/2017,Realbridge,Nessa Armell,"Dickens, Walsh and Cassin",Telecommunications Equipment,Won,160000
+271,2/15/2017,Browsedrive,Wileen Castagneto,Dietrich-Schmitt,Catalog/Specialty Distribution,,220000
+272,3/10/2017,Skinder,Yovonnda MacNelly,Johnston Inc,Diversified Commercial Services,Won,210000
+273,2/19/2017,Realbridge,Bogart Guyonneau,Kunze Inc,Motor Vehicles,Lost,190000
+274,9/11/2017,Browsedrive,Ingeberg Geater,Steuber Group,Specialty Insurers,Lost,200000
+275,11/12/2016,Skinder,Dagny Nitti,Collier and Sons,n/a,Lost,140000
+276,12/26/2016,Realbridge,Edee Beminster,Pacocha and Sons,Industrial Machinery/Components,,170000
+277,7/30/2017,Browsedrive,Hunt Cominoli,Rohan Inc,Telecommunications Equipment,Lost,90000
+278,2/20/2017,Skinder,Cassandre Heckner,Halvorson LLC,Catalog/Specialty Distribution,Won,80000
+279,7/19/2017,Realbridge,Anatola Pundy,Purdy-Christiansen,Diversified Commercial Services,Won,110000
+280,8/4/2017,Browsedrive,Sisely Pinnere,Feil Inc,Motor Vehicles,,50000
+281,3/5/2017,Skinder,Jami McGarvie,Botsford and Sons,Specialty Insurers,Lost,60000
+282,8/6/2017,Realbridge,Romola Krugmann,O'Keefe-Schaden,n/a,Won,180000
+283,9/3/2017,Browsedrive,Amelie Buche,Will Inc,Industrial Machinery/Components,,200000
+284,11/17/2016,Skinder,Darcie Felipe,Considine LLC,Telecommunications Equipment,Lost,170000
+285,4/22/2017,Realbridge,Ami Perrottet,Weber Inc,Catalog/Specialty Distribution,,200000
+286,12/6/2016,Browsedrive,Brit Duggan,Lueilwitz Group,Diversified Commercial Services,,120000
+287,3/2/2017,Skinder,Corbet Strettell,Abshire Inc,Motor Vehicles,,210000
+288,6/17/2017,Realbridge,Fina Crane,Mertz-Kohler,Specialty Insurers,,160000
+289,1/29/2017,Browsedrive,Waverly Demangeon,Strosin LLC,n/a,Won,190000
+290,8/3/2017,Skinder,Zollie Graham,Wiza-Johnson,Industrial Machinery/Components,Lost,160000
+291,3/3/2017,Realbridge,Francoise Romain,Skiles-Shields,Telecommunications Equipment,Lost,60000
+292,5/31/2017,Browsedrive,Ealasaid Douris,"Abernathy, Stamm and Jenkins",Catalog/Specialty Distribution,,90000
+293,9/11/2017,Skinder,Melinde Vickerman,Kautzer Inc,Diversified Commercial Services,,190000
+294,11/26/2016,Realbridge,Westley Blesing,Kiehn and Sons,Motor Vehicles,Won,190000
+295,11/27/2016,Browsedrive,Cynde Aggio,Pollich-Aufderhar,Specialty Insurers,Won,180000
+296,8/8/2017,Skinder,Zita Laurant,"Abshire, Kihn and Gleichner",n/a,,100000
+297,5/6/2017,Realbridge,Durand Andryunin,"Heathcote, Mosciski and Kerluke",Industrial Machinery/Components,,70000
+298,1/23/2017,Browsedrive,Christye Jeffcoat,"Schiller, Hessel and Funk",Telecommunications Equipment,Won,150000
+299,11/20/2016,Skinder,Suzann Saunt,Moore Inc,Catalog/Specialty Distribution,Won,70000
+300,2/6/2017,Realbridge,Nessa Armell,Corwin Group,Diversified Commercial Services,Lost,150000
+301,10/6/2016,Browsedrive,Wileen Castagneto,O'Keefe-Jast,Motor Vehicles,,70000
+302,10/3/2016,Skinder,Yovonnda MacNelly,Welch and Sons,Specialty Insurers,Won,120000
+303,11/19/2016,Realbridge,Bogart Guyonneau,Champlin-Price,n/a,Lost,50000
+304,10/12/2016,Browsedrive,Ingeberg Geater,"Jakubowski, Reilly and Ortiz",Industrial Machinery/Components,,200000
+305,3/13/2017,Skinder,Dagny Nitti,Jerde Inc,Telecommunications Equipment,Lost,100000
+306,2/17/2017,Realbridge,Edee Beminster,Krajcik and Sons,Catalog/Specialty Distribution,Won,110000
+307,8/18/2017,Browsedrive,Hunt Cominoli,"Dare, Gulgowski and Windler",Diversified Commercial Services,Won,160000
+308,8/27/2017,Skinder,Cassandre Heckner,Ortiz-Quitzon,Motor Vehicles,,180000
+309,4/12/2017,Realbridge,Anatola Pundy,Larkin-Kub,Specialty Insurers,Won,230000
+310,6/23/2017,Browsedrive,Sisely Pinnere,"Doyle, Leannon and Macejkovic",n/a,Won,230000
+311,10/26/2016,Skinder,Jami McGarvie,Tremblay Group,Industrial Machinery/Components,Won,170000
+312,11/26/2016,Realbridge,Romola Krugmann,Smitham-Ledner,Telecommunications Equipment,Won,50000
+313,7/10/2017,Browsedrive,Amelie Buche,Bashirian LLC,Catalog/Specialty Distribution,,70000
+314,12/27/2016,Skinder,Darcie Felipe,"Predovic, Cummerata and Marks",Diversified Commercial Services,Lost,110000
+315,9/16/2017,Realbridge,Ami Perrottet,Gislason and Sons,Motor Vehicles,,190000
+316,2/11/2017,Browsedrive,Brit Duggan,"Feil, Kassulke and Greenfelder",Specialty Insurers,,100000
+317,1/5/2017,Skinder,Corbet Strettell,Hayes LLC,n/a,,150000
+318,12/23/2016,Realbridge,Fina Crane,Vandervort LLC,Industrial Machinery/Components,,180000
+319,2/24/2017,Browsedrive,Waverly Demangeon,Yost-Vandervort,Telecommunications Equipment,Won,110000
+320,6/3/2017,Skinder,Zollie Graham,"Buckridge, Goldner and Glover",Catalog/Specialty Distribution,,60000
+321,9/1/2017,Realbridge,Francoise Romain,"Effertz, Hegmann and Ryan",Diversified Commercial Services,Lost,140000
+322,7/12/2017,Browsedrive,Ealasaid Douris,"Lockman, Kuhic and Hoeger",Motor Vehicles,Won,50000
+323,10/2/2016,Skinder,Melinde Vickerman,Dibbert Group,Specialty Insurers,Won,80000
+324,4/24/2017,Realbridge,Westley Blesing,"Gusikowski, Ziemann and Bogan",n/a,Lost,160000
+325,4/8/2017,Browsedrive,Cynde Aggio,Crooks Inc,Industrial Machinery/Components,Lost,150000
+326,4/16/2017,Skinder,Zita Laurant,Stark-Hills,Telecommunications Equipment,Lost,110000
+327,6/12/2017,Realbridge,Durand Andryunin,Turcotte-Franecki,Catalog/Specialty Distribution,,200000
+328,9/9/2017,Browsedrive,Christye Jeffcoat,Hane and Sons,Diversified Commercial Services,,70000
+329,8/29/2017,Skinder,Suzann Saunt,Herman and Sons,Motor Vehicles,Won,220000
+330,7/31/2017,Realbridge,Nessa Armell,Beer-O'Hara,Specialty Insurers,,150000
+331,2/17/2017,Browsedrive,Wileen Castagneto,"Gleichner, Keebler and Schmeler",n/a,Lost,110000
+332,1/12/2017,Skinder,Yovonnda MacNelly,Kautzer-Franecki,Industrial Machinery/Components,Won,200000
+333,6/13/2017,Realbridge,Bogart Guyonneau,Mohr Group,Telecommunications Equipment,,150000
+334,2/23/2017,Browsedrive,Ingeberg Geater,Hansen Group,Catalog/Specialty Distribution,,150000
+335,11/29/2016,Skinder,Dagny Nitti,Hackett Inc,Diversified Commercial Services,Won,160000
+336,10/25/2016,Realbridge,Edee Beminster,"Lynch, Little and Flatley",Motor Vehicles,Lost,170000
+337,11/4/2016,Browsedrive,Hunt Cominoli,"Friesen, Hegmann and Weissnat",Specialty Insurers,,230000
+338,10/18/2016,Skinder,Cassandre Heckner,Bernhard Inc,n/a,,50000
+339,9/2/2017,Realbridge,Anatola Pundy,"Kessler, Buckridge and Cummings",Industrial Machinery/Components,Won,190000
+340,3/17/2017,Browsedrive,Sisely Pinnere,Rosenbaum LLC,Telecommunications Equipment,Lost,80000
+341,11/10/2016,Skinder,Jami McGarvie,"Kutch, Waelchi and Boyle",Catalog/Specialty Distribution,,190000
+342,1/7/2017,Realbridge,Romola Krugmann,"Dooley, Hodkiewicz and Crooks",Diversified Commercial Services,Lost,100000
+343,5/16/2017,Browsedrive,Amelie Buche,"Reichert, Rohan and Hand",Motor Vehicles,Lost,110000
+344,8/4/2017,Skinder,Darcie Felipe,Gleichner Inc,Specialty Insurers,Won,120000
+345,4/2/2017,Realbridge,Ami Perrottet,Smitham Inc,n/a,Lost,100000
+346,8/6/2017,Browsedrive,Brit Duggan,Kirlin-West,Industrial Machinery/Components,Won,120000
+347,12/24/2016,Skinder,Corbet Strettell,"Morissette, Conroy and Ratke",Telecommunications Equipment,Won,200000
+348,6/17/2017,Realbridge,Fina Crane,"Schmitt, Gorczany and Johnston",Catalog/Specialty Distribution,,180000
+349,1/24/2017,Browsedrive,Waverly Demangeon,"O'Conner, Cruickshank and Davis",Diversified Commercial Services,Lost,60000
+350,4/14/2017,Skinder,Zollie Graham,Howe-Wisoky,Motor Vehicles,Won,210000
+351,6/19/2017,Realbridge,Francoise Romain,Casper Inc,Specialty Insurers,Lost,140000
+352,8/20/2017,Browsedrive,Ealasaid Douris,"King, Hilll and Kulas",n/a,,90000
+353,7/1/2017,Skinder,Melinde Vickerman,Murphy-Schmitt,Industrial Machinery/Components,,100000
+354,5/26/2017,Realbridge,Westley Blesing,Hessel-Bayer,Telecommunications Equipment,Won,190000
+355,7/5/2017,Browsedrive,Cynde Aggio,Schroeder LLC,Catalog/Specialty Distribution,Lost,150000
+356,8/25/2017,Skinder,Zita Laurant,"Murazik, Bradtke and Hansen",Diversified Commercial Services,Lost,100000
+357,4/20/2017,Realbridge,Durand Andryunin,"Lakin, Bahringer and Shanahan",Motor Vehicles,Lost,190000
+358,12/20/2016,Browsedrive,Christye Jeffcoat,Barton Inc,Specialty Insurers,Lost,110000
+359,7/8/2017,Skinder,Suzann Saunt,Adams-Lesch,n/a,,110000
+360,8/11/2017,Realbridge,Nessa Armell,Kovacek-Goyette,Industrial Machinery/Components,,80000
+361,5/31/2017,Browsedrive,Wileen Castagneto,Lowe-Barrows,Telecommunications Equipment,Lost,130000
+362,10/25/2016,Skinder,Yovonnda MacNelly,Carter LLC,Catalog/Specialty Distribution,Won,90000
+363,6/26/2017,Realbridge,Bogart Guyonneau,Kilback LLC,Diversified Commercial Services,Won,80000
+364,1/25/2017,Browsedrive,Ingeberg Geater,Haag-Crooks,Motor Vehicles,,190000
+365,10/6/2016,Skinder,Dagny Nitti,Stracke Inc,Specialty Insurers,,110000
+366,8/13/2017,Realbridge,Edee Beminster,Lowe Inc,n/a,Lost,60000
+367,6/23/2017,Browsedrive,Hunt Cominoli,Larson LLC,Industrial Machinery/Components,Won,90000
+368,9/25/2017,Skinder,Cassandre Heckner,Kautzer-West,Telecommunications Equipment,,230000
+369,2/19/2017,Realbridge,Anatola Pundy,"Heaney, Heathcote and McDermott",Catalog/Specialty Distribution,Lost,190000
+370,3/1/2017,Browsedrive,Sisely Pinnere,Terry-Nader,Diversified Commercial Services,,130000
+371,4/14/2017,Skinder,Jami McGarvie,Gulgowski and Sons,Motor Vehicles,Lost,210000
+372,1/16/2017,Realbridge,Romola Krugmann,Sporer Group,Specialty Insurers,Won,190000
+373,9/20/2017,Browsedrive,Amelie Buche,"Donnelly, Thiel and Stark",n/a,Lost,150000
+374,8/30/2017,Skinder,Darcie Felipe,Bode-Bahringer,Industrial Machinery/Components,Won,170000
+375,4/11/2017,Realbridge,Ami Perrottet,"Kutch, Little and Baumbach",Telecommunications Equipment,,210000
+376,1/24/2017,Browsedrive,Brit Duggan,Langworth-Deckow,Catalog/Specialty Distribution,,60000
+377,11/28/2016,Skinder,Corbet Strettell,Boyle Group,Diversified Commercial Services,,160000
+378,6/3/2017,Realbridge,Fina Crane,Stanton Inc,Motor Vehicles,,60000
+379,8/25/2017,Browsedrive,Waverly Demangeon,Champlin and Sons,Specialty Insurers,,210000
+380,7/19/2017,Skinder,Zollie Graham,Volkman-Hahn,n/a,,220000
+381,8/3/2017,Realbridge,Francoise Romain,Jakubowski-Hayes,Industrial Machinery/Components,Won,100000
+382,5/22/2017,Browsedrive,Ealasaid Douris,Hodkiewicz-Wuckert,Telecommunications Equipment,Lost,160000
+383,4/17/2017,Skinder,Melinde Vickerman,"Buckridge, Klocko and Wolf",Catalog/Specialty Distribution,Lost,140000
+384,8/11/2017,Realbridge,Westley Blesing,"Rowe, Ratke and Schmidt",Diversified Commercial Services,,170000
+385,4/26/2017,Browsedrive,Cynde Aggio,Grant Inc,Motor Vehicles,Lost,190000
+386,5/18/2017,Skinder,Zita Laurant,"Renner, Schumm and Cronin",Specialty Insurers,,180000
+387,11/4/2016,Realbridge,Durand Andryunin,"Cole, Dibbert and Champlin",n/a,,190000
+388,6/25/2017,Browsedrive,Christye Jeffcoat,"Greenholt, Dooley and Wolf",Industrial Machinery/Components,Won,120000
+389,12/4/2016,Skinder,Suzann Saunt,Glover Inc,Telecommunications Equipment,,70000
+390,10/15/2016,Realbridge,Nessa Armell,Reichert LLC,Catalog/Specialty Distribution,Won,110000
+391,4/10/2017,Browsedrive,Wileen Castagneto,Barton LLC,Diversified Commercial Services,Lost,70000
+392,2/12/2017,Skinder,Yovonnda MacNelly,"Dickinson, Haley and Robel",Motor Vehicles,Won,210000
+393,8/3/2017,Realbridge,Bogart Guyonneau,Ledner-Hickle,Specialty Insurers,Won,190000
+394,9/5/2017,Browsedrive,Ingeberg Geater,Towne LLC,n/a,,200000
+395,4/11/2017,Skinder,Dagny Nitti,Pollich-Stracke,Industrial Machinery/Components,,170000
+396,10/26/2016,Realbridge,Edee Beminster,Armstrong LLC,Telecommunications Equipment,Won,50000
+397,11/3/2016,Browsedrive,Hunt Cominoli,"Howe, Roob and Walker",Catalog/Specialty Distribution,Lost,160000
+398,9/13/2017,Skinder,Cassandre Heckner,Ritchie Inc,Diversified Commercial Services,Lost,60000
+399,6/14/2017,Realbridge,Anatola Pundy,Jacobson-Hahn,Motor Vehicles,Lost,230000
+400,5/22/2017,Browsedrive,Sisely Pinnere,Morissette-Borer,Specialty Insurers,Lost,60000
+401,12/10/2016,Skinder,Jami McGarvie,Powlowski and Sons,n/a,Won,130000
+402,5/13/2017,Realbridge,Romola Krugmann,Swift-Schaefer,Industrial Machinery/Components,Won,130000
+403,11/28/2016,Browsedrive,Amelie Buche,Nienow-Jerde,Telecommunications Equipment,Lost,230000
+404,5/11/2017,Skinder,Darcie Felipe,Dickens LLC,Catalog/Specialty Distribution,,70000
+405,1/23/2017,Realbridge,Ami Perrottet,Lubowitz Inc,Diversified Commercial Services,Lost,150000
+406,6/9/2017,Browsedrive,Brit Duggan,Metz LLC,Motor Vehicles,Lost,180000
+407,10/12/2016,Skinder,Corbet Strettell,"Schimmel, Monahan and Kunde",Specialty Insurers,Won,60000
+408,12/30/2016,Realbridge,Fina Crane,Becker Group,n/a,Lost,70000
+409,10/16/2016,Browsedrive,Waverly Demangeon,Beer-Dare,Industrial Machinery/Components,Lost,60000
+410,1/19/2017,Skinder,Zollie Graham,"Champlin, Williamson and Smith",Telecommunications Equipment,Won,50000
+411,4/11/2017,Realbridge,Francoise Romain,Kirlin and Sons,Catalog/Specialty Distribution,Won,150000
+412,1/9/2017,Browsedrive,Ealasaid Douris,Heathcote-O'Keefe,Diversified Commercial Services,Lost,130000
+413,11/14/2016,Skinder,Melinde Vickerman,Shanahan Group,Motor Vehicles,,60000
+414,1/14/2017,Realbridge,Westley Blesing,Blick-Prosacco,Specialty Insurers,Won,140000
+415,8/22/2017,Browsedrive,Cynde Aggio,Padberg-Beahan,n/a,,220000
+416,11/27/2016,Skinder,Zita Laurant,Jerde Group,Industrial Machinery/Components,,90000
+417,6/17/2017,Realbridge,Durand Andryunin,Kub and Sons,Telecommunications Equipment,Lost,160000
+418,1/19/2017,Browsedrive,Christye Jeffcoat,McLaughlin-Torphy,Catalog/Specialty Distribution,,50000
+419,5/18/2017,Skinder,Suzann Saunt,"Pollich, Bergnaum and Kuhlman",Diversified Commercial Services,,230000
+420,11/26/2016,Realbridge,Nessa Armell,Metz Inc,Motor Vehicles,Won,110000
+421,6/16/2017,Browsedrive,Wileen Castagneto,Marks-O'Keefe,Specialty Insurers,Lost,220000
+422,3/23/2017,Skinder,Yovonnda MacNelly,"Waelchi, Parker and Ferry",n/a,,190000
+423,8/29/2017,Realbridge,Bogart Guyonneau,"Kuvalis, Friesen and Stracke",Industrial Machinery/Components,Lost,120000
+424,4/22/2017,Browsedrive,Ingeberg Geater,Schuster Inc,Telecommunications Equipment,,210000
+425,10/3/2016,Skinder,Dagny Nitti,"Hills, Wuckert and Skiles",Catalog/Specialty Distribution,Won,60000
+426,3/3/2017,Realbridge,Edee Beminster,"Osinski, Kiehn and Kihn",Diversified Commercial Services,Won,50000
+427,6/7/2017,Browsedrive,Hunt Cominoli,Lowe LLC,Motor Vehicles,,50000
+428,4/7/2017,Skinder,Cassandre Heckner,Schaden-Gleason,Specialty Insurers,Won,60000
+429,8/26/2017,Realbridge,Anatola Pundy,"Leannon, Cremin and Becker",n/a,Lost,110000
+430,7/26/2017,Browsedrive,Sisely Pinnere,"Huel, Barrows and Funk",Industrial Machinery/Components,,130000
+431,10/19/2016,Skinder,Jami McGarvie,Maggio-Hills,Telecommunications Equipment,Won,210000
+432,5/18/2017,Realbridge,Romola Krugmann,"Boehm, Hamill and O'Conner",Catalog/Specialty Distribution,,120000
+433,1/15/2017,Browsedrive,Amelie Buche,Yundt and Sons,Diversified Commercial Services,Won,110000
+434,4/11/2017,Skinder,Darcie Felipe,"Gulgowski, Marvin and Howe",Motor Vehicles,,50000
+435,10/30/2016,Realbridge,Ami Perrottet,Walter-Wolff,Specialty Insurers,Won,50000
+436,10/26/2016,Browsedrive,Brit Duggan,Kerluke-Cassin,n/a,Lost,180000
+437,7/27/2017,Skinder,Corbet Strettell,Waters LLC,Industrial Machinery/Components,,70000
+438,8/2/2017,Realbridge,Fina Crane,"Greenfelder, Corwin and Lueilwitz",Telecommunications Equipment,Lost,190000
+439,6/14/2017,Browsedrive,Waverly Demangeon,Stiedemann-Hagenes,Catalog/Specialty Distribution,,50000
+440,9/28/2017,Skinder,Zollie Graham,Spinka LLC,Diversified Commercial Services,Lost,230000
+441,11/19/2016,Realbridge,Francoise Romain,Wintheiser and Sons,Motor Vehicles,,120000
+442,5/1/2017,Browsedrive,Ealasaid Douris,Nienow-Auer,Specialty Insurers,Lost,160000
+443,5/31/2017,Skinder,Melinde Vickerman,Jacobi Inc,n/a,,80000
+444,11/16/2016,Realbridge,Westley Blesing,Smith-Watsica,Industrial Machinery/Components,Lost,200000
+445,10/17/2016,Browsedrive,Cynde Aggio,Lesch and Sons,Telecommunications Equipment,Lost,170000
+446,11/29/2016,Skinder,Zita Laurant,"Shields, Wehner and Feeney",Catalog/Specialty Distribution,Won,50000
+447,5/1/2017,Realbridge,Durand Andryunin,"Cremin, Kub and Tillman",Diversified Commercial Services,Lost,110000
+448,10/1/2016,Browsedrive,Christye Jeffcoat,Lesch and Sons,Motor Vehicles,,130000
+449,8/4/2017,Skinder,Suzann Saunt,Orn Group,Specialty Insurers,Lost,100000
+450,12/29/2016,Realbridge,Nessa Armell,Bernhard Inc,n/a,,210000
+451,10/17/2016,Browsedrive,Wileen Castagneto,Cummerata-Glover,Industrial Machinery/Components,Won,60000
+452,5/14/2017,Skinder,Yovonnda MacNelly,Bradtke-Dickens,Telecommunications Equipment,Won,120000
+453,8/30/2017,Realbridge,Bogart Guyonneau,Hickle-Conroy,Catalog/Specialty Distribution,Lost,50000
+454,7/29/2017,Browsedrive,Ingeberg Geater,Torphy and Sons,Diversified Commercial Services,Won,50000
+455,1/20/2017,Skinder,Dagny Nitti,"Rutherford, Rogahn and Ruecker",Motor Vehicles,Won,110000
+456,4/20/2017,Realbridge,Edee Beminster,Beer-Von,Specialty Insurers,Lost,80000
+457,10/11/2016,Browsedrive,Hunt Cominoli,D'Amore-Koch,n/a,,80000
+458,10/22/2016,Skinder,Cassandre Heckner,"Bruen, Hickle and Heller",Industrial Machinery/Components,Lost,50000
+459,9/12/2017,Realbridge,Anatola Pundy,Kris-Nolan,Telecommunications Equipment,,150000
+460,3/22/2017,Browsedrive,Sisely Pinnere,"Buckridge, Brakus and Champlin",Catalog/Specialty Distribution,,110000
+461,3/29/2017,Skinder,Jami McGarvie,Kuhic Group,Diversified Commercial Services,Lost,130000
+462,9/24/2017,Realbridge,Romola Krugmann,Heaney Inc,Motor Vehicles,Won,170000
+463,5/18/2017,Browsedrive,Amelie Buche,Collins and Sons,Specialty Insurers,Won,170000
+464,2/25/2017,Skinder,Darcie Felipe,"Maggio, Prosacco and Klein",n/a,Won,180000
+465,6/23/2017,Realbridge,Ami Perrottet,Mann-McKenzie,Industrial Machinery/Components,Lost,220000
+466,9/26/2017,Browsedrive,Brit Duggan,Runolfsdottir Group,Telecommunications Equipment,Lost,110000
+467,10/17/2016,Skinder,Corbet Strettell,Sawayn-Hauck,Catalog/Specialty Distribution,Lost,150000
+468,12/19/2016,Realbridge,Fina Crane,Erdman-Johns,Diversified Commercial Services,,200000
+469,6/11/2017,Browsedrive,Waverly Demangeon,Wyman-Hayes,Motor Vehicles,,80000
+470,12/3/2016,Skinder,Zollie Graham,"Padberg, Mayert and Dickinson",Specialty Insurers,Lost,100000
+471,1/9/2017,Realbridge,Francoise Romain,Flatley Group,n/a,Lost,160000
+472,10/19/2016,Browsedrive,Ealasaid Douris,"Lebsack, Rippin and Wisozk",Industrial Machinery/Components,,220000
+473,6/29/2017,Skinder,Melinde Vickerman,"Considine, Quigley and Konopelski",Telecommunications Equipment,Won,150000
+474,6/9/2017,Realbridge,Westley Blesing,"Champlin, Leuschke and Conroy",Catalog/Specialty Distribution,Won,170000
+475,6/8/2017,Browsedrive,Cynde Aggio,Johnson-Mitchell,Diversified Commercial Services,Won,130000
+476,8/7/2017,Skinder,Zita Laurant,Bechtelar and Sons,Motor Vehicles,,100000
+477,1/21/2017,Realbridge,Durand Andryunin,Doyle and Sons,Specialty Insurers,,120000
+478,1/10/2017,Browsedrive,Christye Jeffcoat,"Cummings, Hand and Mann",n/a,Won,200000
+479,11/14/2016,Skinder,Suzann Saunt,"Hintz, Hoeger and Bernier",Industrial Machinery/Components,,90000
+480,12/19/2016,Realbridge,Nessa Armell,Donnelly-Bashirian,Telecommunications Equipment,Won,50000
+481,9/9/2017,Browsedrive,Wileen Castagneto,Goldner-Hirthe,Catalog/Specialty Distribution,Lost,170000
+482,8/5/2017,Skinder,Yovonnda MacNelly,"Powlowski, Ernser and Murphy",Diversified Commercial Services,Won,170000
+483,11/30/2016,Realbridge,Bogart Guyonneau,Ruecker Inc,Motor Vehicles,Lost,160000
+484,8/19/2017,Browsedrive,Ingeberg Geater,"Emard, Skiles and Swaniawski",Specialty Insurers,Lost,190000
+485,12/31/2016,Skinder,Dagny Nitti,"Medhurst, Haag and Bailey",n/a,,190000
+486,5/3/2017,Realbridge,Edee Beminster,Feest LLC,Industrial Machinery/Components,Lost,100000
+487,4/29/2017,Browsedrive,Hunt Cominoli,Bahringer and Sons,Telecommunications Equipment,Lost,190000
+488,6/9/2017,Skinder,Cassandre Heckner,Heller-Kovacek,Catalog/Specialty Distribution,Won,70000
+489,1/1/2017,Realbridge,Anatola Pundy,Schmeler LLC,Diversified Commercial Services,,100000
+490,12/31/2016,Browsedrive,Sisely Pinnere,"Gleason, Turcotte and Ruecker",Motor Vehicles,Lost,140000
+491,10/10/2016,Skinder,Jami McGarvie,Hyatt LLC,Specialty Insurers,Won,220000
+492,4/29/2017,Realbridge,Romola Krugmann,Denesik LLC,n/a,,120000
+493,3/3/2017,Browsedrive,Amelie Buche,Tromp LLC,Industrial Machinery/Components,Lost,220000
+494,6/9/2017,Skinder,Darcie Felipe,Marquardt-Bailey,Telecommunications Equipment,Lost,190000
+495,1/23/2017,Realbridge,Ami Perrottet,Herman-Lindgren,Catalog/Specialty Distribution,,180000
+496,6/11/2017,Browsedrive,Brit Duggan,"Greenfelder, Towne and Klocko",Diversified Commercial Services,,60000
+497,6/26/2017,Skinder,Corbet Strettell,"Armstrong, Runolfsson and Ullrich",Motor Vehicles,,200000
+498,10/19/2016,Realbridge,Fina Crane,O'Hara-Rosenbaum,Specialty Insurers,,130000
+499,5/16/2017,Browsedrive,Waverly Demangeon,Sawayn Inc,n/a,Lost,160000
+500,8/8/2017,Skinder,Zollie Graham,Schultz and Sons,Industrial Machinery/Components,,140000
+501,8/21/2017,Realbridge,Francoise Romain,Dicki-Wisoky,Telecommunications Equipment,Lost,160000
+502,9/27/2017,Browsedrive,Ealasaid Douris,Monahan-Hilpert,Catalog/Specialty Distribution,,190000
+503,5/20/2017,Skinder,Melinde Vickerman,Beer Group,Diversified Commercial Services,,150000
+504,10/9/2016,Realbridge,Westley Blesing,McLaughlin LLC,Motor Vehicles,,230000
+505,3/28/2017,Browsedrive,Cynde Aggio,Botsford-Mayert,Specialty Insurers,,60000
+506,5/21/2017,Skinder,Zita Laurant,Braun and Sons,n/a,Won,220000
+507,10/16/2016,Realbridge,Durand Andryunin,Strosin and Sons,Industrial Machinery/Components,Lost,140000
+508,7/22/2017,Browsedrive,Christye Jeffcoat,"Klocko, Prohaska and Bode",Telecommunications Equipment,,70000
+509,5/20/2017,Skinder,Suzann Saunt,Collier-Sauer,Catalog/Specialty Distribution,Lost,120000
+510,4/23/2017,Realbridge,Nessa Armell,Hahn LLC,Diversified Commercial Services,Lost,130000
+511,1/30/2017,Browsedrive,Wileen Castagneto,Schoen-D'Amore,Motor Vehicles,Won,120000
+512,11/15/2016,Skinder,Yovonnda MacNelly,"Hayes, Adams and Hermann",Specialty Insurers,Won,120000
+513,4/21/2017,Realbridge,Bogart Guyonneau,Cronin-Lynch,n/a,,120000
+514,10/28/2016,Browsedrive,Ingeberg Geater,Greenfelder-Halvorson,Industrial Machinery/Components,,130000
+515,9/5/2017,Skinder,Dagny Nitti,Kozey-Lockman,Telecommunications Equipment,Won,90000
+516,2/23/2017,Realbridge,Edee Beminster,Jenkins LLC,Catalog/Specialty Distribution,Won,110000
+517,4/24/2017,Browsedrive,Hunt Cominoli,Pfeffer LLC,Diversified Commercial Services,Won,150000
+518,3/12/2017,Skinder,Cassandre Heckner,"Beatty, Jast and Schuppe",Motor Vehicles,Won,170000
+519,5/17/2017,Realbridge,Anatola Pundy,Sauer LLC,Specialty Insurers,Lost,120000
+520,5/28/2017,Browsedrive,Sisely Pinnere,"O'Kon, D'Amore and Padberg",n/a,,80000
+521,8/31/2017,Skinder,Jami McGarvie,Braun-Fay,Industrial Machinery/Components,Won,210000
+522,12/21/2016,Realbridge,Romola Krugmann,"Torp, Jenkins and Pouros",Telecommunications Equipment,,130000
+523,5/17/2017,Browsedrive,Amelie Buche,"Yundt, Okuneva and Padberg",Catalog/Specialty Distribution,Lost,180000
+524,4/14/2017,Skinder,Darcie Felipe,Rempel-Kiehn,Diversified Commercial Services,Lost,120000
+525,12/12/2016,Realbridge,Ami Perrottet,Osinski-Fritsch,Motor Vehicles,,190000
+526,2/6/2017,Browsedrive,Brit Duggan,Jaskolski-Kassulke,Specialty Insurers,Lost,80000
+527,8/22/2017,Skinder,Corbet Strettell,"Schimmel, Orn and Goyette",n/a,,190000
+528,5/9/2017,Realbridge,Fina Crane,"Christiansen, Auer and Rohan",Industrial Machinery/Components,,220000
+529,5/18/2017,Browsedrive,Waverly Demangeon,Mann and Sons,Telecommunications Equipment,Won,100000
+530,2/6/2017,Skinder,Zollie Graham,Bergstrom Group,Catalog/Specialty Distribution,Lost,100000
+531,9/30/2017,Realbridge,Francoise Romain,Brakus-Kris,Diversified Commercial Services,Lost,170000
+532,12/28/2016,Browsedrive,Ealasaid Douris,Paucek-White,Motor Vehicles,Lost,60000
+533,8/9/2017,Skinder,Melinde Vickerman,"Jones, Metz and Ernser",Specialty Insurers,,100000
+534,7/15/2017,Realbridge,Westley Blesing,"Stark, Lebsack and Ward",n/a,Lost,180000
+535,9/9/2017,Browsedrive,Cynde Aggio,Gutmann-Schmidt,Industrial Machinery/Components,Lost,70000
+536,9/20/2017,Skinder,Zita Laurant,Kiehn Group,Telecommunications Equipment,,170000
+537,8/23/2017,Realbridge,Durand Andryunin,"Vandervort, Farrell and Bins",Catalog/Specialty Distribution,Lost,150000
+538,7/11/2017,Browsedrive,Christye Jeffcoat,Funk-Bashirian,Diversified Commercial Services,,190000
+539,1/16/2017,Skinder,Suzann Saunt,"Raynor, Spencer and Wolf",Motor Vehicles,,80000
+540,1/24/2017,Realbridge,Nessa Armell,"Willms, Herzog and Ferry",Specialty Insurers,Lost,70000
+541,5/17/2017,Browsedrive,Wileen Castagneto,Harber and Sons,n/a,,210000
+542,1/25/2017,Skinder,Yovonnda MacNelly,"Hodkiewicz, Zieme and Rempel",Industrial Machinery/Components,Lost,90000
+543,9/14/2017,Realbridge,Bogart Guyonneau,"Green, Corkery and Hegmann",Telecommunications Equipment,Won,230000
+544,12/29/2016,Browsedrive,Ingeberg Geater,O'Reilly-Smitham,Catalog/Specialty Distribution,,140000
+545,1/28/2017,Skinder,Dagny Nitti,Feeney Inc,Diversified Commercial Services,Lost,50000
+546,10/10/2016,Realbridge,Edee Beminster,Renner LLC,Motor Vehicles,Won,70000
+547,3/11/2017,Browsedrive,Hunt Cominoli,Predovic-Miller,Specialty Insurers,,210000
+548,8/10/2017,Skinder,Cassandre Heckner,"Flatley, Hickle and Legros",n/a,Lost,200000
+549,1/2/2017,Realbridge,Anatola Pundy,Bauch-Schamberger,Industrial Machinery/Components,Won,200000
+550,1/1/2017,Browsedrive,Sisely Pinnere,Farrell-Kertzmann,Telecommunications Equipment,Lost,160000
+551,9/7/2017,Skinder,Jami McGarvie,Roob-Thiel,Catalog/Specialty Distribution,Won,230000
+552,10/26/2016,Realbridge,Romola Krugmann,Kub-Ebert,Diversified Commercial Services,Won,120000
+553,3/18/2017,Browsedrive,Amelie Buche,Daugherty and Sons,Motor Vehicles,Won,230000
+554,8/5/2017,Skinder,Darcie Felipe,"Cartwright, Strosin and Howe",Specialty Insurers,Lost,120000
+555,2/10/2017,Realbridge,Ami Perrottet,"MacGyver, Schinner and Conroy",n/a,,120000
+556,9/20/2017,Browsedrive,Brit Duggan,Balistreri-King,Industrial Machinery/Components,,220000
+557,8/26/2017,Skinder,Corbet Strettell,Ondricka-Hartmann,Telecommunications Equipment,,110000
+558,8/9/2017,Realbridge,Fina Crane,Carter Group,Catalog/Specialty Distribution,Won,110000
+559,5/31/2017,Browsedrive,Waverly Demangeon,Boyer and Sons,Diversified Commercial Services,Lost,70000
+560,11/9/2016,Skinder,Zollie Graham,"Botsford, Mayer and Wintheiser",Motor Vehicles,Lost,150000
+561,5/26/2017,Realbridge,Francoise Romain,"Raynor, Nolan and Ritchie",Specialty Insurers,Won,210000
+562,2/17/2017,Browsedrive,Ealasaid Douris,Cronin Inc,n/a,Lost,220000
+563,8/16/2017,Skinder,Melinde Vickerman,"Runte, Gutmann and Schamberger",Industrial Machinery/Components,Won,170000
+564,4/28/2017,Realbridge,Westley Blesing,Zulauf-Harvey,Telecommunications Equipment,,190000
+565,1/2/2017,Browsedrive,Cynde Aggio,Keebler-O'Hara,Catalog/Specialty Distribution,Won,90000
+566,8/12/2017,Skinder,Zita Laurant,"Schulist, Bashirian and Schoen",Diversified Commercial Services,Lost,120000
+567,2/25/2017,Realbridge,Durand Andryunin,"Kuhic, Gerlach and Larkin",Motor Vehicles,Lost,60000
+568,1/14/2017,Browsedrive,Christye Jeffcoat,Moen and Sons,Specialty Insurers,,80000
+569,12/19/2016,Skinder,Suzann Saunt,Schmeler-Carter,n/a,Lost,200000
+570,7/8/2017,Realbridge,Nessa Armell,Lockman LLC,Industrial Machinery/Components,Won,130000
+571,5/10/2017,Browsedrive,Wileen Castagneto,Von and Sons,Telecommunications Equipment,Won,90000
+572,5/13/2017,Skinder,Yovonnda MacNelly,Veum LLC,Catalog/Specialty Distribution,Lost,210000
+573,4/27/2017,Realbridge,Bogart Guyonneau,Abernathy-O'Reilly,Diversified Commercial Services,Lost,50000
+574,4/17/2017,Browsedrive,Ingeberg Geater,"Boyle, Jacobi and Kuphal",Motor Vehicles,Lost,140000
+575,10/27/2016,Skinder,Dagny Nitti,Russel-Rosenbaum,Specialty Insurers,Lost,100000
+576,2/28/2017,Realbridge,Edee Beminster,Schamberger LLC,n/a,,190000
+577,10/30/2016,Browsedrive,Hunt Cominoli,"Vandervort, Waters and Shanahan",Industrial Machinery/Components,Won,60000
+578,5/5/2017,Skinder,Cassandre Heckner,Beahan-McClure,Telecommunications Equipment,,130000
+579,12/8/2016,Realbridge,Anatola Pundy,Wintheiser Group,Catalog/Specialty Distribution,,140000
+580,9/9/2017,Browsedrive,Sisely Pinnere,Hintz and Sons,Diversified Commercial Services,Lost,140000
+581,1/28/2017,Skinder,Jami McGarvie,"Schaefer, Deckow and Block",Motor Vehicles,,230000
+582,12/21/2016,Realbridge,Romola Krugmann,"Beier, Zulauf and Senger",Specialty Insurers,,70000
+583,11/25/2016,Browsedrive,Amelie Buche,Dicki Inc,n/a,Won,50000
+584,3/3/2017,Skinder,Darcie Felipe,"Schulist, Kovacek and Kunde",Industrial Machinery/Components,,150000
+585,1/15/2017,Realbridge,Ami Perrottet,Tremblay Group,Telecommunications Equipment,Won,120000
+586,1/13/2017,Browsedrive,Brit Duggan,"Denesik, Krajcik and Bogisich",Catalog/Specialty Distribution,Won,170000
+587,6/3/2017,Skinder,Corbet Strettell,Anderson-Ankunding,Diversified Commercial Services,,100000
+588,1/15/2017,Realbridge,Fina Crane,Mann and Sons,Motor Vehicles,,140000
+589,11/1/2016,Browsedrive,Waverly Demangeon,"Welch, Schaefer and Nienow",Specialty Insurers,Lost,140000
+590,12/21/2016,Skinder,Zollie Graham,Quitzon-Harvey,n/a,,160000
+591,4/15/2017,Realbridge,Francoise Romain,Macejkovic Group,Industrial Machinery/Components,Lost,110000
+592,10/11/2016,Browsedrive,Ealasaid Douris,Jenkins-Schroeder,Telecommunications Equipment,Won,150000
+593,10/24/2016,Skinder,Melinde Vickerman,Spencer-Nader,Catalog/Specialty Distribution,Lost,50000
+594,6/1/2017,Realbridge,Westley Blesing,Lemke-Kerluke,Diversified Commercial Services,Lost,170000
+595,9/3/2017,Browsedrive,Cynde Aggio,D'Amore-Beier,Motor Vehicles,,120000
+596,3/24/2017,Skinder,Zita Laurant,"Lynch, Thompson and Christiansen",Specialty Insurers,,60000
+597,9/1/2017,Realbridge,Durand Andryunin,Bartell Group,n/a,Lost,120000
+598,7/7/2017,Browsedrive,Christye Jeffcoat,Emard-Mraz,Industrial Machinery/Components,Won,60000
+599,3/18/2017,Skinder,Suzann Saunt,O'Kon-Deckow,Telecommunications Equipment,,210000
+600,1/6/2017,Realbridge,Nessa Armell,Hilll-Brekke,Catalog/Specialty Distribution,Won,90000
+601,9/3/2017,Browsedrive,Wileen Castagneto,Bailey Inc,Diversified Commercial Services,,200000
+602,7/10/2017,Skinder,Yovonnda MacNelly,Mayert and Sons,Motor Vehicles,Lost,60000
+603,7/5/2017,Realbridge,Bogart Guyonneau,Tillman and Sons,Specialty Insurers,,100000
+604,6/20/2017,Browsedrive,Ingeberg Geater,"Mitchell, West and Jacobson",n/a,,190000
+605,6/28/2017,Skinder,Dagny Nitti,Swaniawski Group,Industrial Machinery/Components,,160000
+606,8/24/2017,Realbridge,Edee Beminster,"Crooks, Bergnaum and O'Kon",Telecommunications Equipment,Lost,100000
+607,3/28/2017,Browsedrive,Hunt Cominoli,Franecki-Adams,Catalog/Specialty Distribution,Won,140000
+608,3/17/2017,Skinder,Cassandre Heckner,Osinski-Corwin,Diversified Commercial Services,Won,110000
+609,3/4/2017,Realbridge,Anatola Pundy,Jakubowski-Mosciski,Motor Vehicles,Lost,140000
+610,11/27/2016,Browsedrive,Sisely Pinnere,Champlin-Predovic,Specialty Insurers,,130000
+611,2/20/2017,Skinder,Jami McGarvie,"Hessel, Willms and Davis",n/a,Won,90000
+612,6/7/2017,Realbridge,Romola Krugmann,"Monahan, Brown and West",Industrial Machinery/Components,Won,120000
+613,6/4/2017,Browsedrive,Amelie Buche,Spinka-Strosin,Telecommunications Equipment,Lost,80000
+614,6/25/2017,Skinder,Darcie Felipe,Adams-Cummerata,Catalog/Specialty Distribution,Lost,90000
+615,10/25/2016,Realbridge,Ami Perrottet,Dooley and Sons,Diversified Commercial Services,Won,60000
+616,9/7/2017,Browsedrive,Brit Duggan,Collins-Schamberger,Motor Vehicles,Won,190000
+617,6/22/2017,Skinder,Corbet Strettell,"McGlynn, Gerlach and Collier",Specialty Insurers,Lost,50000
+618,9/3/2017,Realbridge,Fina Crane,"Corkery, Tillman and Schaefer",n/a,,230000
+619,10/17/2016,Browsedrive,Waverly Demangeon,"Herman, Fadel and Grady",Industrial Machinery/Components,,120000
+620,10/10/2016,Skinder,Zollie Graham,"Klein, Stamm and Blanda",Telecommunications Equipment,,160000
+621,4/7/2017,Realbridge,Francoise Romain,Green-Schmidt,Catalog/Specialty Distribution,,150000
+622,10/16/2016,Browsedrive,Ealasaid Douris,Connelly-Schroeder,Diversified Commercial Services,Lost,220000
+623,10/22/2016,Skinder,Melinde Vickerman,"Harris, Shanahan and Fadel",Motor Vehicles,Lost,190000
+624,10/12/2016,Realbridge,Westley Blesing,"Effertz, Muller and Reinger",Specialty Insurers,,180000
+625,12/29/2016,Browsedrive,Cynde Aggio,"Ferry, Hickle and Green",n/a,,170000
+626,7/30/2017,Skinder,Zita Laurant,"Reynolds, Douglas and Denesik",Industrial Machinery/Components,Won,80000
+627,1/6/2017,Realbridge,Durand Andryunin,"Champlin, Miller and Medhurst",Telecommunications Equipment,,220000
+628,10/8/2016,Browsedrive,Christye Jeffcoat,Yundt-Trantow,Catalog/Specialty Distribution,Lost,110000
+629,5/3/2017,Skinder,Suzann Saunt,Mohr and Sons,Diversified Commercial Services,,70000
+630,7/2/2017,Realbridge,Nessa Armell,Marks-Kuphal,Motor Vehicles,Won,140000
+631,12/1/2016,Browsedrive,Wileen Castagneto,Fritsch-Williamson,Specialty Insurers,Lost,80000
+632,12/30/2016,Skinder,Yovonnda MacNelly,Prohaska LLC,n/a,Won,60000
+633,8/25/2017,Realbridge,Bogart Guyonneau,Lind and Sons,Industrial Machinery/Components,Won,50000
+634,12/9/2016,Browsedrive,Ingeberg Geater,"Fay, Glover and Botsford",Telecommunications Equipment,Won,50000
+635,3/20/2017,Skinder,Dagny Nitti,"Howe, Hagenes and Wolff",Catalog/Specialty Distribution,Won,220000
+636,8/24/2017,Realbridge,Edee Beminster,"Fahey, McDermott and Becker",Diversified Commercial Services,Lost,200000
+637,12/25/2016,Browsedrive,Hunt Cominoli,Raynor-Hettinger,Motor Vehicles,Lost,190000
+638,1/12/2017,Skinder,Cassandre Heckner,Lindgren Group,Specialty Insurers,Won,150000
+639,4/26/2017,Realbridge,Anatola Pundy,Lockman-Rohan,n/a,Lost,110000
+640,2/19/2017,Browsedrive,Sisely Pinnere,Connelly Inc,Industrial Machinery/Components,Lost,70000
+641,1/18/2017,Skinder,Jami McGarvie,Koelpin and Sons,Telecommunications Equipment,Won,80000
+642,3/20/2017,Realbridge,Romola Krugmann,Wolf LLC,Catalog/Specialty Distribution,Lost,130000
+643,3/17/2017,Browsedrive,Amelie Buche,"Grant, Metz and Prosacco",Diversified Commercial Services,Won,50000
+644,11/12/2016,Skinder,Darcie Felipe,"Douglas, Keebler and Dickinson",Motor Vehicles,,60000
+645,12/22/2016,Realbridge,Ami Perrottet,"Jacobs, Ward and Towne",Specialty Insurers,,190000
+646,2/11/2017,Browsedrive,Brit Duggan,Stanton Group,n/a,Lost,130000
+647,5/5/2017,Skinder,Corbet Strettell,Corkery-Barrows,Industrial Machinery/Components,,80000
+648,8/26/2017,Realbridge,Fina Crane,Fay and Sons,Telecommunications Equipment,,90000
+649,9/2/2017,Browsedrive,Waverly Demangeon,Walsh and Sons,Catalog/Specialty Distribution,,100000
+650,1/19/2017,Skinder,Zollie Graham,Schroeder LLC,Diversified Commercial Services,,130000
+651,4/14/2017,Realbridge,Francoise Romain,"Lebsack, Gaylord and Daugherty",Motor Vehicles,Won,70000
+652,3/22/2017,Browsedrive,Ealasaid Douris,Bradtke Inc,Specialty Insurers,Lost,100000
+653,3/15/2017,Skinder,Melinde Vickerman,"Schoen, Auer and White",n/a,,90000
+654,9/13/2017,Realbridge,Westley Blesing,"Brown, Bahringer and Kovacek",Industrial Machinery/Components,Lost,90000
+655,11/8/2016,Browsedrive,Cynde Aggio,Heidenreich Inc,Telecommunications Equipment,,110000
+656,8/16/2017,Skinder,Zita Laurant,Swift-Kuvalis,Catalog/Specialty Distribution,,110000
+657,11/19/2016,Realbridge,Durand Andryunin,"Boehm, Powlowski and Quigley",Diversified Commercial Services,Lost,220000
+658,12/15/2016,Browsedrive,Christye Jeffcoat,"Cartwright, Ratke and Streich",Motor Vehicles,,90000
+659,2/3/2017,Skinder,Suzann Saunt,Sauer-Koss,Specialty Insurers,Lost,140000
+660,4/16/2017,Realbridge,Nessa Armell,Metz-Ebert,n/a,,160000
+661,7/18/2017,Browsedrive,Wileen Castagneto,"Herzog, Denesik and Hagenes",Industrial Machinery/Components,Won,210000
+662,3/13/2017,Skinder,Yovonnda MacNelly,Kreiger Inc,Telecommunications Equipment,,110000
+663,12/1/2016,Realbridge,Bogart Guyonneau,"Vandervort, Nitzsche and Howell",Catalog/Specialty Distribution,Won,110000
+664,9/18/2017,Browsedrive,Ingeberg Geater,"Hartmann, Conn and Considine",Diversified Commercial Services,,50000
+665,5/2/2017,Skinder,Dagny Nitti,Greenholt-Herman,Motor Vehicles,Won,180000
+666,8/9/2017,Realbridge,Edee Beminster,Wehner LLC,Specialty Insurers,Lost,220000
+667,5/7/2017,Browsedrive,Hunt Cominoli,Schiller Group,n/a,Won,80000
+668,9/7/2017,Skinder,Cassandre Heckner,Stamm and Sons,Industrial Machinery/Components,,200000
+669,2/20/2017,Realbridge,Anatola Pundy,Frami Inc,Telecommunications Equipment,,180000
+670,3/6/2017,Browsedrive,Sisely Pinnere,Green-Kris,Catalog/Specialty Distribution,Lost,150000
+671,6/5/2017,Skinder,Jami McGarvie,Ritchie LLC,Diversified Commercial Services,Lost,190000
+672,9/13/2017,Realbridge,Romola Krugmann,"Schultz, Towne and Little",Motor Vehicles,Won,150000
+673,4/25/2017,Browsedrive,Amelie Buche,Wilkinson LLC,Specialty Insurers,,130000
+674,1/14/2017,Skinder,Darcie Felipe,"Dibbert, Oberbrunner and Ankunding",n/a,Won,220000
+675,8/30/2017,Realbridge,Ami Perrottet,Considine-Renner,Industrial Machinery/Components,,170000
+676,10/7/2016,Browsedrive,Brit Duggan,Goldner Inc,Telecommunications Equipment,,110000
+677,8/15/2017,Skinder,Corbet Strettell,Crist LLC,Catalog/Specialty Distribution,Lost,70000
+678,3/22/2017,Realbridge,Fina Crane,"Tillman, Prosacco and Rodriguez",Diversified Commercial Services,,70000
+679,8/29/2017,Browsedrive,Waverly Demangeon,"Prohaska, Goodwin and Franecki",Motor Vehicles,Won,50000
+680,3/1/2017,Skinder,Zollie Graham,Marvin Group,Specialty Insurers,Lost,220000
+681,12/30/2016,Realbridge,Francoise Romain,Gusikowski and Sons,n/a,,110000
+682,9/29/2017,Browsedrive,Ealasaid Douris,Lemke-Hettinger,Industrial Machinery/Components,Won,70000
+683,12/31/2016,Skinder,Melinde Vickerman,"West, Bartoletti and Gutkowski",Telecommunications Equipment,Lost,60000
+684,11/3/2016,Realbridge,Westley Blesing,"Stamm, Grady and Murphy",Catalog/Specialty Distribution,,170000
+685,11/26/2016,Browsedrive,Cynde Aggio,O'Connell-Cronin,Diversified Commercial Services,,130000
+686,9/1/2017,Skinder,Zita Laurant,West-Ward,Motor Vehicles,,60000
+687,7/28/2017,Realbridge,Durand Andryunin,Berge-Mueller,Specialty Insurers,,180000
+688,8/3/2017,Browsedrive,Christye Jeffcoat,Von-Hand,n/a,Won,120000
+689,6/6/2017,Skinder,Suzann Saunt,Kunde-Hessel,Industrial Machinery/Components,Lost,190000
+690,4/23/2017,Realbridge,Nessa Armell,"Oberbrunner, Mraz and Bednar",Telecommunications Equipment,Won,120000
+691,11/11/2016,Browsedrive,Wileen Castagneto,"Reynolds, Dibbert and Wehner",Catalog/Specialty Distribution,Won,80000
+692,10/14/2016,Skinder,Yovonnda MacNelly,Ferry LLC,Diversified Commercial Services,Won,230000
+693,7/13/2017,Realbridge,Bogart Guyonneau,Kertzmann and Sons,Motor Vehicles,Won,60000
+694,10/22/2016,Browsedrive,Ingeberg Geater,Jones Inc,Specialty Insurers,,80000
+695,9/28/2017,Skinder,Dagny Nitti,"Haley, Nikolaus and Feest",n/a,,140000
+696,5/14/2017,Realbridge,Edee Beminster,Kilback-Emmerich,Industrial Machinery/Components,,130000
+697,12/12/2016,Browsedrive,Hunt Cominoli,Gusikowski-Hills,Telecommunications Equipment,Lost,220000
+698,12/17/2016,Skinder,Cassandre Heckner,"Zieme, Runolfsdottir and Krajcik",Catalog/Specialty Distribution,,50000
+699,5/9/2017,Realbridge,Anatola Pundy,Dach and Sons,Diversified Commercial Services,Lost,210000
+700,1/28/2017,Browsedrive,Sisely Pinnere,Bartoletti-Grant,Motor Vehicles,Won,70000
+701,7/20/2017,Skinder,Jami McGarvie,"Jaskolski, Pagac and Rath",Specialty Insurers,Lost,210000
+702,7/14/2017,Realbridge,Romola Krugmann,Wiegand-Kassulke,n/a,,80000
+703,5/8/2017,Browsedrive,Amelie Buche,Leffler-Hirthe,Industrial Machinery/Components,Lost,140000
+704,5/2/2017,Skinder,Darcie Felipe,Kub LLC,Telecommunications Equipment,Lost,180000
+705,10/4/2016,Realbridge,Ami Perrottet,Larson-Morar,Catalog/Specialty Distribution,,210000
+706,4/1/2017,Browsedrive,Brit Duggan,"Weissnat, Runolfsson and Wehner",Diversified Commercial Services,Lost,130000
+707,12/17/2016,Skinder,Corbet Strettell,Lang-Volkman,Motor Vehicles,,50000
+708,1/7/2017,Realbridge,Fina Crane,Torphy and Sons,Specialty Insurers,,50000
+709,4/22/2017,Browsedrive,Waverly Demangeon,Lakin Inc,n/a,,50000
+710,9/18/2017,Skinder,Zollie Graham,Kutch Inc,Industrial Machinery/Components,,100000
+711,1/18/2017,Realbridge,Francoise Romain,Daniel Inc,Telecommunications Equipment,Won,130000
+712,3/28/2017,Browsedrive,Ealasaid Douris,Robel-Bailey,Catalog/Specialty Distribution,,200000
+713,2/12/2017,Skinder,Melinde Vickerman,Moore-Gleason,Diversified Commercial Services,,120000
+714,12/10/2016,Realbridge,Westley Blesing,"Cummerata, Wyman and Mosciski",Motor Vehicles,Lost,90000
+715,2/15/2017,Browsedrive,Cynde Aggio,"Stamm, Lind and Padberg",Specialty Insurers,Won,220000
+716,9/10/2017,Skinder,Zita Laurant,"Conroy, Schamberger and Marks",n/a,Won,130000
+717,1/29/2017,Realbridge,Durand Andryunin,Schmidt-Schneider,Industrial Machinery/Components,Lost,230000
+718,8/10/2017,Browsedrive,Christye Jeffcoat,"Greenholt, Ledner and Ritchie",Telecommunications Equipment,,160000
+719,7/31/2017,Skinder,Suzann Saunt,Cronin-Wehner,Catalog/Specialty Distribution,,160000
+720,12/28/2016,Realbridge,Nessa Armell,"Feil, Wilderman and Mertz",Diversified Commercial Services,Won,50000
+721,4/27/2017,Browsedrive,Wileen Castagneto,Donnelly-Parisian,Motor Vehicles,Lost,230000
+722,5/30/2017,Skinder,Yovonnda MacNelly,Volkman and Sons,Specialty Insurers,Lost,100000
+723,3/4/2017,Realbridge,Bogart Guyonneau,Ernser-Tillman,n/a,Lost,120000
+724,8/28/2017,Browsedrive,Ingeberg Geater,Mann-Kertzmann,Industrial Machinery/Components,,130000
+725,12/30/2016,Skinder,Dagny Nitti,"Kessler, Mueller and Osinski",Telecommunications Equipment,Lost,90000
+726,1/20/2017,Realbridge,Edee Beminster,Cremin-Lindgren,Catalog/Specialty Distribution,Lost,50000
+727,5/9/2017,Browsedrive,Hunt Cominoli,"Reichert, Kozey and Douglas",Diversified Commercial Services,Won,100000
+728,4/3/2017,Skinder,Cassandre Heckner,"Stracke, Bins and Ward",Motor Vehicles,Lost,120000
+729,12/16/2016,Realbridge,Anatola Pundy,Buckridge-Terry,Specialty Insurers,,140000
+730,8/24/2017,Browsedrive,Sisely Pinnere,Bode-Schowalter,n/a,Won,190000
+731,3/16/2017,Skinder,Jami McGarvie,Predovic-West,Industrial Machinery/Components,,160000
+732,12/8/2016,Realbridge,Romola Krugmann,Zulauf-Balistreri,Telecommunications Equipment,,110000
+733,12/13/2016,Browsedrive,Amelie Buche,Purdy and Sons,Catalog/Specialty Distribution,Lost,210000
+734,12/10/2016,Skinder,Darcie Felipe,Lowe-Boyer,Diversified Commercial Services,Lost,160000
+735,4/13/2017,Realbridge,Ami Perrottet,Gottlieb-Mayert,Motor Vehicles,Lost,190000
+736,9/18/2017,Browsedrive,Brit Duggan,Cole Inc,Specialty Insurers,,180000
+737,2/18/2017,Skinder,Corbet Strettell,"Miller, MacGyver and Kshlerin",n/a,,110000
+738,7/25/2017,Realbridge,Fina Crane,"Schmeler, Hilll and Stehr",Industrial Machinery/Components,Lost,190000
+739,11/19/2016,Browsedrive,Waverly Demangeon,Kuhn-Senger,Telecommunications Equipment,,110000
+740,10/12/2016,Skinder,Zollie Graham,"Hickle, Marvin and Frami",Catalog/Specialty Distribution,Lost,210000
+741,1/16/2017,Realbridge,Francoise Romain,Bogisich-Hoppe,Diversified Commercial Services,Won,230000
+742,6/21/2017,Browsedrive,Ealasaid Douris,Connelly and Sons,Motor Vehicles,Won,60000
+743,7/15/2017,Skinder,Melinde Vickerman,"Rolfson, Daniel and Zemlak",Specialty Insurers,,70000
+744,4/7/2017,Realbridge,Westley Blesing,"Schuster, Kuhlman and Goldner",n/a,,50000
+745,7/28/2017,Browsedrive,Cynde Aggio,Schuster-Dickinson,Industrial Machinery/Components,Won,150000
+746,4/9/2017,Skinder,Zita Laurant,Huel-Gulgowski,Telecommunications Equipment,Lost,90000
+747,11/4/2016,Realbridge,Durand Andryunin,Jacobi Group,Catalog/Specialty Distribution,Won,110000
+748,11/7/2016,Browsedrive,Christye Jeffcoat,"Monahan, Treutel and Deckow",Diversified Commercial Services,Lost,50000
+749,1/6/2017,Skinder,Suzann Saunt,"Sauer, Donnelly and Padberg",Motor Vehicles,Lost,70000
+750,9/6/2017,Realbridge,Nessa Armell,Abshire Group,Specialty Insurers,,90000
+751,10/15/2016,Browsedrive,Wileen Castagneto,Mann LLC,n/a,Won,90000
+752,2/24/2017,Skinder,Yovonnda MacNelly,O'Connell Group,Industrial Machinery/Components,Won,190000
+753,1/20/2017,Realbridge,Bogart Guyonneau,Anderson-Terry,Telecommunications Equipment,Lost,190000
+754,11/24/2016,Browsedrive,Ingeberg Geater,"Kirlin, Wolff and Haley",Catalog/Specialty Distribution,Won,200000
+755,5/27/2017,Skinder,Dagny Nitti,D'Amore Group,Diversified Commercial Services,,160000
+756,5/11/2017,Realbridge,Edee Beminster,"Schumm, Pfeffer and Thompson",Motor Vehicles,Won,140000
+757,1/21/2017,Browsedrive,Hunt Cominoli,Halvorson Group,Specialty Insurers,Won,120000
+758,11/9/2016,Skinder,Cassandre Heckner,Dooley and Sons,n/a,Won,140000
+759,2/4/2017,Realbridge,Anatola Pundy,Koch Group,Industrial Machinery/Components,,80000
+760,6/29/2017,Browsedrive,Sisely Pinnere,Johnston Inc,Telecommunications Equipment,Lost,120000
+761,11/18/2016,Skinder,Jami McGarvie,Rolfson Group,Catalog/Specialty Distribution,,210000
+762,3/25/2017,Realbridge,Romola Krugmann,Rippin LLC,Diversified Commercial Services,Won,80000
+763,10/5/2016,Browsedrive,Amelie Buche,Fahey LLC,Motor Vehicles,Won,60000
+764,7/31/2017,Skinder,Darcie Felipe,Schaden and Sons,Specialty Insurers,,90000
+765,3/23/2017,Realbridge,Ami Perrottet,Jakubowski Inc,n/a,,70000
+766,2/18/2017,Browsedrive,Brit Duggan,Schuster-Boyle,Industrial Machinery/Components,Lost,190000
+767,5/30/2017,Skinder,Corbet Strettell,Feeney Group,Telecommunications Equipment,Lost,50000
+768,9/19/2017,Realbridge,Fina Crane,"Hyatt, Mills and Stehr",Catalog/Specialty Distribution,Lost,60000
+769,9/29/2017,Browsedrive,Waverly Demangeon,"Senger, Leuschke and Kuhn",Diversified Commercial Services,,210000
+770,11/30/2016,Skinder,Zollie Graham,"Pagac, Hahn and Buckridge",Motor Vehicles,,130000
+771,11/5/2016,Realbridge,Francoise Romain,Jast-Rath,Specialty Insurers,Lost,160000
+772,8/5/2017,Browsedrive,Ealasaid Douris,Dach-Watsica,n/a,Lost,220000
+773,8/30/2017,Skinder,Melinde Vickerman,"Mann, Weissnat and Tillman",Industrial Machinery/Components,Won,70000
+774,4/27/2017,Realbridge,Westley Blesing,Boyle-Schmidt,Telecommunications Equipment,,130000
+775,5/28/2017,Browsedrive,Cynde Aggio,Boyle Inc,Catalog/Specialty Distribution,,220000
+776,11/15/2016,Skinder,Zita Laurant,"Barrows, Kilback and Rempel",Diversified Commercial Services,,230000
+777,9/6/2017,Realbridge,Durand Andryunin,"Connelly, Mayert and Quigley",Motor Vehicles,Won,140000
+778,7/6/2017,Browsedrive,Christye Jeffcoat,Lynch-Swaniawski,Specialty Insurers,Won,130000
+779,1/15/2017,Skinder,Suzann Saunt,Reilly-Robel,n/a,Won,50000
+780,9/17/2017,Realbridge,Nessa Armell,Wisozk-Kulas,Industrial Machinery/Components,Lost,160000
+781,3/1/2017,Browsedrive,Wileen Castagneto,Cole Group,Telecommunications Equipment,,210000
+782,1/29/2017,Skinder,Yovonnda MacNelly,Johnston and Sons,Catalog/Specialty Distribution,,160000
+783,7/13/2017,Realbridge,Bogart Guyonneau,Lang-Gerlach,Diversified Commercial Services,Won,100000
+784,7/26/2017,Browsedrive,Ingeberg Geater,Kris and Sons,Motor Vehicles,Won,130000
+785,12/2/2016,Skinder,Dagny Nitti,Kuhic Inc,Specialty Insurers,Won,160000
+786,2/27/2017,Realbridge,Edee Beminster,"Huels, MacGyver and Schmidt",n/a,Lost,120000
+787,8/20/2017,Browsedrive,Hunt Cominoli,"Walker, Harvey and Crooks",Industrial Machinery/Components,Lost,210000
+788,2/21/2017,Skinder,Cassandre Heckner,Konopelski LLC,Telecommunications Equipment,Lost,180000
+789,10/21/2016,Realbridge,Anatola Pundy,King LLC,Catalog/Specialty Distribution,Lost,90000
+790,1/17/2017,Browsedrive,Sisely Pinnere,Walker-Fritsch,Diversified Commercial Services,Lost,220000
+791,12/28/2016,Skinder,Jami McGarvie,Greenholt-Dickens,Motor Vehicles,Won,100000
+792,6/28/2017,Realbridge,Romola Krugmann,Dietrich and Sons,Specialty Insurers,Won,180000
+793,1/20/2017,Browsedrive,Amelie Buche,Cronin-Daugherty,n/a,,80000
+794,11/12/2016,Skinder,Darcie Felipe,Gleason Group,Industrial Machinery/Components,Lost,110000
+795,5/6/2017,Realbridge,Ami Perrottet,Wolff-Flatley,Telecommunications Equipment,,70000
+796,7/6/2017,Browsedrive,Brit Duggan,Runolfsdottir-Russel,Catalog/Specialty Distribution,,160000
+797,11/1/2016,Skinder,Corbet Strettell,Miller-Waelchi,Diversified Commercial Services,,230000
+798,11/1/2016,Realbridge,Fina Crane,"Ratke, Parisian and White",Motor Vehicles,Won,100000
+799,8/28/2017,Browsedrive,Waverly Demangeon,Rippin-Brown,Specialty Insurers,Lost,120000
+800,10/14/2016,Skinder,Zollie Graham,"Swift, Johnson and McGlynn",n/a,,140000
+801,1/14/2017,Realbridge,Francoise Romain,"Quigley, Weimann and Walker",Industrial Machinery/Components,Lost,90000
+802,8/16/2017,Browsedrive,Ealasaid Douris,Corwin and Sons,Telecommunications Equipment,Won,80000
+803,2/4/2017,Skinder,Melinde Vickerman,"Paucek, Tremblay and Ryan",Catalog/Specialty Distribution,Lost,110000
+804,5/20/2017,Realbridge,Westley Blesing,Ziemann Group,Diversified Commercial Services,Won,70000
+805,10/29/2016,Browsedrive,Cynde Aggio,Jenkins Group,Motor Vehicles,,60000
+806,1/14/2017,Skinder,Zita Laurant,Mohr Inc,Specialty Insurers,,200000
+807,2/16/2017,Realbridge,Durand Andryunin,Eichmann and Sons,n/a,,120000
+808,9/26/2017,Browsedrive,Christye Jeffcoat,"Zulauf, Daugherty and Kozey",Industrial Machinery/Components,Won,210000
+809,4/30/2017,Skinder,Suzann Saunt,Turner-Haag,Telecommunications Equipment,,190000
+810,1/26/2017,Realbridge,Nessa Armell,Doyle Inc,Catalog/Specialty Distribution,Won,130000
+811,9/9/2017,Browsedrive,Wileen Castagneto,"Casper, Kuvalis and Gottlieb",Diversified Commercial Services,Lost,130000
+812,11/12/2016,Skinder,Yovonnda MacNelly,"Borer, Leuschke and Funk",Motor Vehicles,Lost,100000
+813,12/10/2016,Realbridge,Bogart Guyonneau,Schinner-Davis,Specialty Insurers,,130000
+814,8/20/2017,Browsedrive,Ingeberg Geater,"Ankunding, Willms and Kuvalis",n/a,,50000
+815,5/20/2017,Skinder,Dagny Nitti,"Mayer, Lemke and Nicolas",Industrial Machinery/Components,Lost,220000
+816,9/16/2017,Realbridge,Edee Beminster,"Jenkins, Goyette and Hettinger",Telecommunications Equipment,Won,180000
+817,2/21/2017,Browsedrive,Hunt Cominoli,Flatley LLC,Catalog/Specialty Distribution,Lost,220000
+818,3/27/2017,Skinder,Cassandre Heckner,"Heller, Welch and Gerlach",Diversified Commercial Services,Won,60000
+819,4/24/2017,Realbridge,Anatola Pundy,"Stark, Heidenreich and Leannon",Motor Vehicles,Lost,230000
+820,10/22/2016,Browsedrive,Sisely Pinnere,"Paucek, Schimmel and Runte",Specialty Insurers,,50000
+821,5/19/2017,Skinder,Jami McGarvie,Cronin and Sons,n/a,Lost,110000
+822,2/9/2017,Realbridge,Romola Krugmann,"Harvey, Wilkinson and Emmerich",Industrial Machinery/Components,Won,60000
+823,12/6/2016,Browsedrive,Amelie Buche,"Heller, Johnson and Zboncak",Telecommunications Equipment,Won,140000
+824,6/19/2017,Skinder,Darcie Felipe,Fisher Group,Catalog/Specialty Distribution,Won,230000
+825,7/21/2017,Realbridge,Ami Perrottet,"Abernathy, Hartmann and Bode",Diversified Commercial Services,,170000
+826,6/7/2017,Browsedrive,Brit Duggan,Trantow-Larkin,Motor Vehicles,Won,160000
+827,11/11/2016,Skinder,Corbet Strettell,Towne LLC,Specialty Insurers,Lost,200000
+828,9/16/2017,Realbridge,Fina Crane,"Torp, Paucek and Greenholt",n/a,Lost,80000
+829,1/20/2017,Browsedrive,Waverly Demangeon,Renner Group,Industrial Machinery/Components,Lost,110000
+830,2/4/2017,Skinder,Zollie Graham,Hettinger-Harber,Telecommunications Equipment,Lost,170000
+831,11/16/2016,Realbridge,Francoise Romain,Grady Group,Catalog/Specialty Distribution,Won,230000
+832,2/16/2017,Browsedrive,Ealasaid Douris,Yost-Hane,Diversified Commercial Services,,110000
+833,6/18/2017,Skinder,Melinde Vickerman,Abshire-Williamson,Motor Vehicles,,220000
+834,1/17/2017,Realbridge,Westley Blesing,Mertz-Padberg,Specialty Insurers,Lost,170000
+835,12/20/2016,Browsedrive,Cynde Aggio,"Crist, Davis and Mante",n/a,Lost,140000
+836,11/22/2016,Skinder,Zita Laurant,"Barrows, D'Amore and Hermann",Industrial Machinery/Components,,140000
+837,3/15/2017,Realbridge,Durand Andryunin,Botsford-Beahan,Telecommunications Equipment,Lost,120000
+838,4/1/2017,Browsedrive,Christye Jeffcoat,Towne-Veum,Catalog/Specialty Distribution,,160000
+839,7/14/2017,Skinder,Suzann Saunt,"Rogahn, Hand and Lindgren",Diversified Commercial Services,,140000
+840,9/16/2017,Realbridge,Nessa Armell,Feest Inc,Motor Vehicles,,170000
+841,10/15/2016,Browsedrive,Wileen Castagneto,Bartoletti-Christiansen,Specialty Insurers,Lost,170000
+842,6/3/2017,Skinder,Yovonnda MacNelly,Stamm-Wisozk,n/a,,60000
+843,1/17/2017,Realbridge,Bogart Guyonneau,"Nikolaus, Quigley and Hirthe",Industrial Machinery/Components,,180000
+844,5/19/2017,Browsedrive,Ingeberg Geater,Wiza Group,Telecommunications Equipment,Lost,90000
+845,2/12/2017,Skinder,Dagny Nitti,Haag Group,Catalog/Specialty Distribution,,120000
+846,8/22/2017,Realbridge,Edee Beminster,Brekke-Rodriguez,Diversified Commercial Services,,200000
+847,9/9/2017,Browsedrive,Hunt Cominoli,Bayer LLC,Motor Vehicles,Won,210000
+848,8/23/2017,Skinder,Cassandre Heckner,"O'Keefe, Will and Gerhold",Specialty Insurers,Won,120000
+849,5/16/2017,Realbridge,Anatola Pundy,Koss LLC,n/a,Won,120000
+850,2/24/2017,Browsedrive,Sisely Pinnere,McLaughlin-Kassulke,Industrial Machinery/Components,,190000
+851,4/4/2017,Skinder,Jami McGarvie,"Dach, Jenkins and Hessel",Telecommunications Equipment,,210000
+852,8/30/2017,Realbridge,Romola Krugmann,Mueller Inc,Catalog/Specialty Distribution,Lost,160000
+853,3/20/2017,Browsedrive,Amelie Buche,Paucek Group,Diversified Commercial Services,Won,220000
+854,3/16/2017,Skinder,Darcie Felipe,Gleichner LLC,Motor Vehicles,Won,200000
+855,8/7/2017,Realbridge,Ami Perrottet,Parker-Kihn,Specialty Insurers,Won,50000
+856,6/17/2017,Browsedrive,Brit Duggan,Hodkiewicz-Yundt,n/a,Lost,160000
+857,3/6/2017,Skinder,Corbet Strettell,Lind LLC,Industrial Machinery/Components,Won,180000
+858,5/22/2017,Realbridge,Fina Crane,Schultz and Sons,Telecommunications Equipment,,50000
+859,6/27/2017,Browsedrive,Waverly Demangeon,"Crona, Metz and Kshlerin",Catalog/Specialty Distribution,,110000
+860,5/19/2017,Skinder,Zollie Graham,Labadie Group,Diversified Commercial Services,Lost,130000
+861,6/6/2017,Realbridge,Francoise Romain,Gottlieb-Schoen,Motor Vehicles,Won,200000
+862,4/10/2017,Browsedrive,Ealasaid Douris,Mueller Group,Specialty Insurers,Lost,70000
+863,5/4/2017,Skinder,Melinde Vickerman,Nienow LLC,n/a,,120000
+864,1/26/2017,Realbridge,Westley Blesing,Beatty-Schuppe,Industrial Machinery/Components,Lost,120000
+865,6/24/2017,Browsedrive,Cynde Aggio,Pagac LLC,Telecommunications Equipment,Lost,230000
+866,3/30/2017,Skinder,Zita Laurant,"Lebsack, Orn and Cronin",Catalog/Specialty Distribution,Lost,70000
+867,4/3/2017,Realbridge,Durand Andryunin,"Emard, Gibson and Ondricka",Diversified Commercial Services,Lost,130000
+868,9/14/2017,Browsedrive,Christye Jeffcoat,Klein-Grant,Motor Vehicles,Won,100000
+869,5/14/2017,Skinder,Suzann Saunt,Stracke LLC,Specialty Insurers,Won,70000
+870,2/9/2017,Realbridge,Nessa Armell,"Swaniawski, Nader and Collier",n/a,,170000
+871,1/11/2017,Browsedrive,Wileen Castagneto,Bauch LLC,Industrial Machinery/Components,Lost,70000
+872,4/13/2017,Skinder,Yovonnda MacNelly,"Eichmann, Stamm and Connelly",Telecommunications Equipment,,170000
+873,10/9/2016,Realbridge,Bogart Guyonneau,"Shields, Treutel and Waters",Catalog/Specialty Distribution,Won,160000
+874,3/3/2017,Browsedrive,Ingeberg Geater,Abbott Group,Diversified Commercial Services,Won,150000
+875,12/27/2016,Skinder,Dagny Nitti,Pacocha-Collier,Motor Vehicles,Won,170000
+876,11/20/2016,Realbridge,Edee Beminster,Prohaska and Sons,Specialty Insurers,Lost,190000
+877,11/17/2016,Browsedrive,Hunt Cominoli,"Howell, Schuppe and Wintheiser",n/a,,230000
+878,10/13/2016,Skinder,Cassandre Heckner,Lebsack Group,Industrial Machinery/Components,,90000
+879,4/29/2017,Realbridge,Anatola Pundy,"Gottlieb, Klein and Goodwin",Telecommunications Equipment,,200000
+880,10/2/2016,Browsedrive,Sisely Pinnere,Hodkiewicz LLC,Catalog/Specialty Distribution,,200000
+881,8/30/2017,Skinder,Jami McGarvie,"Dooley, Thompson and Lakin",Diversified Commercial Services,Lost,180000
+882,6/23/2017,Realbridge,Romola Krugmann,"Metz, Watsica and Walsh",Motor Vehicles,Won,180000
+883,5/17/2017,Browsedrive,Amelie Buche,"Gorczany, Deckow and Beier",Specialty Insurers,,190000
+884,1/12/2017,Skinder,Darcie Felipe,Mitchell-Feil,n/a,,230000
+885,12/12/2016,Realbridge,Ami Perrottet,"Streich, Corkery and O'Kon",Industrial Machinery/Components,,150000
+886,8/4/2017,Browsedrive,Brit Duggan,"Stark, Shields and Kohler",Telecommunications Equipment,Lost,210000
+887,8/28/2017,Skinder,Corbet Strettell,Ritchie-Harvey,Catalog/Specialty Distribution,Won,170000
+888,12/17/2016,Realbridge,Fina Crane,Torp-Stoltenberg,Diversified Commercial Services,,200000
+889,1/20/2017,Browsedrive,Waverly Demangeon,"Abbott, Heathcote and Russel",Motor Vehicles,Won,180000
+890,3/20/2017,Skinder,Zollie Graham,Gerhold-Haley,Specialty Insurers,,100000
+891,9/22/2017,Realbridge,Francoise Romain,Green and Sons,n/a,,210000
+892,3/11/2017,Browsedrive,Ealasaid Douris,Zemlak-Jacobs,Industrial Machinery/Components,,220000
+893,11/7/2016,Skinder,Melinde Vickerman,Boyer and Sons,Telecommunications Equipment,,60000
+894,9/21/2017,Realbridge,Westley Blesing,Treutel and Sons,Catalog/Specialty Distribution,,110000
+895,11/16/2016,Browsedrive,Cynde Aggio,"Koss, Friesen and Monahan",Diversified Commercial Services,Lost,210000
+896,11/2/2016,Skinder,Zita Laurant,"Durgan, Tillman and Littel",Motor Vehicles,Lost,130000
+897,12/17/2016,Realbridge,Durand Andryunin,Walter-Upton,Specialty Insurers,Lost,120000
+898,11/22/2016,Browsedrive,Christye Jeffcoat,"Steuber, Turcotte and Weimann",n/a,Lost,230000
+899,6/11/2017,Skinder,Suzann Saunt,Borer-Moen,Industrial Machinery/Components,Won,100000
+900,5/13/2017,Realbridge,Nessa Armell,"Reichel, Welch and Mohr",Telecommunications Equipment,Lost,110000
+901,12/25/2016,Browsedrive,Wileen Castagneto,Franecki-Parker,Catalog/Specialty Distribution,,160000
+902,4/27/2017,Skinder,Yovonnda MacNelly,"Breitenberg, Vandervort and Senger",Diversified Commercial Services,Won,90000
+903,3/24/2017,Realbridge,Bogart Guyonneau,Roberts Inc,Motor Vehicles,Lost,130000
+904,11/11/2016,Browsedrive,Ingeberg Geater,Dooley Group,Specialty Insurers,Lost,160000
+905,2/26/2017,Skinder,Dagny Nitti,"Pouros, Stokes and Hahn",n/a,Won,60000
+906,5/3/2017,Realbridge,Edee Beminster,Hills-Nitzsche,Industrial Machinery/Components,Lost,60000
+907,9/22/2017,Browsedrive,Hunt Cominoli,Sporer-Murray,Telecommunications Equipment,,140000
+908,9/6/2017,Skinder,Cassandre Heckner,Bode-Pouros,Catalog/Specialty Distribution,Lost,190000
+909,5/26/2017,Realbridge,Anatola Pundy,"Kiehn, Hammes and O'Kon",Diversified Commercial Services,Won,190000
+910,7/1/2017,Browsedrive,Sisely Pinnere,Marquardt-Ferry,Motor Vehicles,Won,60000
+911,5/15/2017,Skinder,Jami McGarvie,Jerde Inc,Specialty Insurers,Won,210000
+912,12/9/2016,Realbridge,Romola Krugmann,"Beatty, Green and Feeney",n/a,,180000
+913,5/11/2017,Browsedrive,Amelie Buche,Wolff-Wyman,Industrial Machinery/Components,Lost,60000
+914,10/11/2016,Skinder,Darcie Felipe,Rosenbaum-Halvorson,Telecommunications Equipment,Lost,230000
+915,11/12/2016,Realbridge,Ami Perrottet,Stamm and Sons,Catalog/Specialty Distribution,Won,110000
+916,8/16/2017,Browsedrive,Brit Duggan,Simonis Inc,Diversified Commercial Services,Won,110000
+917,4/11/2017,Skinder,Corbet Strettell,Franecki LLC,Motor Vehicles,Lost,170000
+918,6/22/2017,Realbridge,Fina Crane,"Purdy, Wolf and Funk",Specialty Insurers,,90000
+919,2/3/2017,Browsedrive,Waverly Demangeon,Hermiston-King,n/a,,110000
+920,6/9/2017,Skinder,Zollie Graham,"Daniel, Gibson and Metz",Industrial Machinery/Components,,100000
+921,8/3/2017,Realbridge,Francoise Romain,Reynolds Inc,Telecommunications Equipment,Won,110000
+922,3/25/2017,Browsedrive,Ealasaid Douris,"Schamberger, Gleichner and Bartoletti",Catalog/Specialty Distribution,Won,90000
+923,6/2/2017,Skinder,Melinde Vickerman,"Kuhic, Bergstrom and Murazik",Diversified Commercial Services,Won,170000
+924,2/8/2017,Realbridge,Westley Blesing,Hammes LLC,Motor Vehicles,Won,200000
+925,1/8/2017,Browsedrive,Cynde Aggio,"Kuphal, Mosciski and Towne",Specialty Insurers,Won,180000
+926,4/15/2017,Skinder,Zita Laurant,Kuvalis-Runolfsson,n/a,Lost,100000
+927,3/13/2017,Realbridge,Durand Andryunin,Tillman-Konopelski,Industrial Machinery/Components,,180000
+928,8/4/2017,Browsedrive,Christye Jeffcoat,Schneider-Pfannerstill,Telecommunications Equipment,,190000
+929,12/10/2016,Skinder,Suzann Saunt,Deckow Group,Catalog/Specialty Distribution,Lost,180000
+930,5/3/2017,Realbridge,Nessa Armell,Powlowski Inc,Diversified Commercial Services,Won,100000
+931,6/4/2017,Browsedrive,Wileen Castagneto,"Lind, Collier and Koss",Motor Vehicles,Won,140000
+932,12/3/2016,Skinder,Yovonnda MacNelly,Rohan-Reichert,Specialty Insurers,Lost,180000
+933,3/29/2017,Realbridge,Bogart Guyonneau,Kozey-Prohaska,n/a,Won,80000
+934,9/20/2017,Browsedrive,Ingeberg Geater,"Barton, Keeling and Ernser",Industrial Machinery/Components,Won,80000
+935,12/31/2016,Skinder,Dagny Nitti,"Robel, White and Brekke",Telecommunications Equipment,Won,50000
+936,6/17/2017,Realbridge,Edee Beminster,Watsica-Schinner,Catalog/Specialty Distribution,Won,110000
+937,12/22/2016,Browsedrive,Hunt Cominoli,Keebler LLC,Diversified Commercial Services,,150000
+938,5/26/2017,Skinder,Cassandre Heckner,"Koepp, Keebler and Kub",Motor Vehicles,,130000
+939,4/1/2017,Realbridge,Anatola Pundy,"Hintz, Greenfelder and Fahey",Specialty Insurers,Lost,110000
+940,2/12/2017,Browsedrive,Sisely Pinnere,"Crist, Bins and Wisozk",n/a,,170000
+941,4/19/2017,Skinder,Jami McGarvie,Jakubowski-Kilback,Industrial Machinery/Components,Lost,140000
+942,7/6/2017,Realbridge,Romola Krugmann,Walsh-Williamson,Telecommunications Equipment,,150000
+943,3/5/2017,Browsedrive,Amelie Buche,"Ernser, Schinner and Lockman",Catalog/Specialty Distribution,,190000
+944,8/8/2017,Skinder,Darcie Felipe,Schiller-Kunde,Diversified Commercial Services,Lost,180000
+945,12/30/2016,Realbridge,Ami Perrottet,Sanford-Hickle,Motor Vehicles,Lost,200000
+946,9/3/2017,Browsedrive,Brit Duggan,Altenwerth-O'Conner,Specialty Insurers,Won,180000
+947,4/7/2017,Skinder,Corbet Strettell,Stehr Group,n/a,Lost,50000
+948,1/2/2017,Realbridge,Fina Crane,Robel and Sons,Industrial Machinery/Components,,80000
+949,4/14/2017,Browsedrive,Waverly Demangeon,"Lebsack, O'Keefe and Jerde",Telecommunications Equipment,,190000
+950,8/21/2017,Skinder,Zollie Graham,Daugherty-Harber,Catalog/Specialty Distribution,,80000
+951,11/2/2016,Realbridge,Francoise Romain,Nader-Mitchell,Diversified Commercial Services,Won,190000
+952,2/11/2017,Browsedrive,Ealasaid Douris,Lakin-Friesen,Motor Vehicles,,70000
+953,9/19/2017,Skinder,Melinde Vickerman,"Fay, Langosh and Weber",Specialty Insurers,Won,210000
+954,1/2/2017,Realbridge,Westley Blesing,Ziemann-Lehner,n/a,Won,180000
+955,3/21/2017,Browsedrive,Cynde Aggio,Tremblay-Kub,Industrial Machinery/Components,,220000
+956,8/13/2017,Skinder,Zita Laurant,Hartmann Inc,Telecommunications Equipment,Won,190000
+957,3/6/2017,Realbridge,Durand Andryunin,Roob and Sons,Catalog/Specialty Distribution,,220000
+958,10/14/2016,Browsedrive,Christye Jeffcoat,Bernhard LLC,Diversified Commercial Services,,100000
+959,3/15/2017,Skinder,Suzann Saunt,Cole-Lebsack,Motor Vehicles,Lost,90000
+960,6/15/2017,Realbridge,Nessa Armell,"Harvey, Satterfield and Torp",Specialty Insurers,Lost,60000
+961,5/23/2017,Browsedrive,Wileen Castagneto,"Mertz, Hermann and Aufderhar",n/a,Lost,160000
+962,2/16/2017,Skinder,Yovonnda MacNelly,"Wilkinson, Howe and Nolan",Industrial Machinery/Components,Won,230000
+963,3/25/2017,Realbridge,Bogart Guyonneau,"Schimmel, Waters and Pagac",Telecommunications Equipment,,50000
+964,8/5/2017,Browsedrive,Ingeberg Geater,"Runte, Dicki and Quigley",Catalog/Specialty Distribution,Lost,80000
+965,2/14/2017,Skinder,Dagny Nitti,"Kuhic, Cremin and Fisher",Diversified Commercial Services,Won,60000
+966,9/23/2017,Realbridge,Edee Beminster,Dietrich-Wiza,Motor Vehicles,,170000
+967,5/27/2017,Browsedrive,Hunt Cominoli,Kilback Group,Specialty Insurers,,100000
+968,9/17/2017,Skinder,Cassandre Heckner,Schmidt LLC,n/a,,100000
+969,8/25/2017,Realbridge,Anatola Pundy,"Abernathy, Walker and O'Conner",Industrial Machinery/Components,Won,210000
+970,12/12/2016,Browsedrive,Sisely Pinnere,Lehner-Sauer,Telecommunications Equipment,Lost,140000
+971,7/28/2017,Skinder,Jami McGarvie,"Treutel, Bahringer and Turcotte",Catalog/Specialty Distribution,,70000
+972,12/13/2016,Realbridge,Romola Krugmann,"Dach, Abernathy and Eichmann",Diversified Commercial Services,Won,230000
+973,2/28/2017,Browsedrive,Amelie Buche,"Leffler, Dickens and Kreiger",Motor Vehicles,Lost,170000
+974,7/17/2017,Skinder,Darcie Felipe,Waters LLC,Specialty Insurers,,140000
+975,4/13/2017,Realbridge,Ami Perrottet,Hermann Group,n/a,Won,150000
+976,9/24/2017,Browsedrive,Brit Duggan,Lehner-O'Reilly,Industrial Machinery/Components,Lost,230000
+977,3/15/2017,Skinder,Corbet Strettell,"Pfannerstill, Blanda and Hamill",Telecommunications Equipment,Lost,130000
+978,9/12/2017,Realbridge,Fina Crane,Beatty LLC,Catalog/Specialty Distribution,Lost,120000
+979,2/4/2017,Browsedrive,Waverly Demangeon,Ortiz-Ankunding,Diversified Commercial Services,Won,180000
+980,4/4/2017,Skinder,Zollie Graham,"Swift, Abshire and Lemke",Motor Vehicles,Won,120000
+981,7/3/2017,Realbridge,Francoise Romain,Lakin-Legros,Specialty Insurers,Lost,160000
+982,7/24/2017,Browsedrive,Ealasaid Douris,Moen-Sauer,n/a,Lost,190000
+983,1/11/2017,Skinder,Melinde Vickerman,Mraz-Hodkiewicz,Industrial Machinery/Components,Won,90000
+984,10/26/2016,Realbridge,Westley Blesing,"Dickinson, Wisoky and Roberts",Telecommunications Equipment,Won,210000
+985,5/1/2017,Browsedrive,Cynde Aggio,Padberg and Sons,Catalog/Specialty Distribution,Won,90000
+986,10/4/2016,Skinder,Zita Laurant,"Lowe, Morar and Jacobson",Diversified Commercial Services,,130000
+987,10/31/2016,Realbridge,Durand Andryunin,Monahan-Muller,Motor Vehicles,Lost,230000
+988,3/22/2017,Browsedrive,Christye Jeffcoat,"Graham, Okuneva and Volkman",Specialty Insurers,,200000
+989,8/16/2017,Skinder,Suzann Saunt,Von-Kshlerin,n/a,Lost,120000
+990,5/31/2017,Realbridge,Nessa Armell,Rohan and Sons,Industrial Machinery/Components,Lost,70000
+991,8/3/2017,Browsedrive,Wileen Castagneto,Heathcote-Beahan,Telecommunications Equipment,Lost,100000
+992,12/31/2016,Skinder,Yovonnda MacNelly,Olson-Jacobs,Catalog/Specialty Distribution,Lost,70000
+993,2/19/2017,Realbridge,Bogart Guyonneau,"Torphy, Morar and Little",Diversified Commercial Services,,200000
+994,12/12/2016,Browsedrive,Ingeberg Geater,Klocko-Johnston,Motor Vehicles,,210000
+995,9/15/2017,Skinder,Dagny Nitti,Graham-Kihn,Specialty Insurers,Won,100000
+996,10/6/2016,Realbridge,Edee Beminster,"Mraz, Stamm and Kozey",n/a,,200000
+997,8/24/2017,Browsedrive,Hunt Cominoli,Cartwright-Kshlerin,Industrial Machinery/Components,Lost,220000
+998,7/26/2017,Skinder,Cassandre Heckner,"Wisoky, Ondricka and Ullrich",Telecommunications Equipment,Won,80000
+999,3/1/2017,Realbridge,Anatola Pundy,"Rodriguez, Mohr and Kautzer",Catalog/Specialty Distribution,,120000
