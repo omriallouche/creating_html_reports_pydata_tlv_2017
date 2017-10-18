@@ -11935,6 +11935,15 @@ The report should show:</p>
 <li>Lightweight</li>
 </ul>
 <p>While not popular in the Python community, HTML is a simple format that answers all of our Data Science prayers, and is a great option for reports.</p>
+
+</div>
+</div>
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
 <p>HTML is:</p>
 <ul>
 <li>text based</li>
@@ -12277,72 +12286,6 @@ Check out <a href="https://getbootstrap.com/docs/3.3/javascript/">the docs</a> f
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Embedding-Image-Files">Embedding Image Files<a class="anchor-link" href="#Embedding-Image-Files">&#182;</a></h2><p>Images are embedded in HTML using the <code>&lt;img&gt;</code> tag, with its <code>src</code> attribute pointing to the figure:</p>
-<div class="highlight"><pre><span></span><span class="p">&lt;</span><span class="nt">img</span> <span class="na">src</span><span class="o">=</span><span class="s">“figures/barchart_time_to_call.png”</span><span class="p">&gt;</span>
-</pre></div>
-
-</div>
-</div>
-</div></section><section>
-<div class="cell border-box-sizing text_cell rendered">
-<div class="prompt input_prompt">
-</div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="2-main-ways-to-include-images:">2 main ways to include images:<a class="anchor-link" href="#2-main-ways-to-include-images:">&#182;</a></h3><p>Either use savefig() in Python to save as PNG, and use the image file in HTML.</p>
-
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[8]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">save_img_as_file</span><span class="p">(</span><span class="n">filename</span><span class="p">):</span>
-    <span class="n">plt</span><span class="o">.</span><span class="n">savefig</span><span class="p">(</span><span class="n">filename</span><span class="p">)</span>
-</pre></div>
-
-</div>
-</div>
-</div>
-
-</div>
-<div class="cell border-box-sizing text_cell rendered">
-<div class="prompt input_prompt">
-</div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p><strong>OR</strong> Use get a Base64 presentation of the image, and embed it inside the HTML file as a string:</p>
-
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[9]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">save_img_as_base64</span><span class="p">():</span>
-    <span class="kn">import</span> <span class="nn">io</span>
-    <span class="kn">import</span> <span class="nn">urllib</span><span class="o">,</span> <span class="nn">base64</span>
-    <span class="n">buf</span> <span class="o">=</span> <span class="n">io</span><span class="o">.</span><span class="n">BytesIO</span><span class="p">()</span>
-    <span class="n">plt</span><span class="o">.</span><span class="n">savefig</span><span class="p">(</span><span class="n">buf</span><span class="p">,</span> <span class="nb">format</span><span class="o">=</span><span class="s1">&#39;png&#39;</span><span class="p">)</span>
-    <span class="n">buf</span><span class="o">.</span><span class="n">seek</span><span class="p">(</span><span class="mi">0</span><span class="p">)</span>
-    <span class="n">string</span> <span class="o">=</span> <span class="n">base64</span><span class="o">.</span><span class="n">b64encode</span><span class="p">(</span><span class="n">buf</span><span class="o">.</span><span class="n">read</span><span class="p">())</span>
-    <span class="k">return</span> <span class="s1">&#39;data:image/png;base64,&#39;</span> <span class="o">+</span> <span class="n">urllib</span><span class="o">.</span><span class="n">parse</span><span class="o">.</span><span class="n">quote</span><span class="p">(</span><span class="n">string</span><span class="p">)</span>
-</pre></div>
-
-</div>
-</div>
-</div>
-
-</div></section></section><section><section>
-<div class="cell border-box-sizing text_cell rendered">
-<div class="prompt input_prompt">
-</div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="Working-with-Tables">Working with Tables<a class="anchor-link" href="#Working-with-Tables">&#182;</a></h2><p>To display a table, we can use pandas' <code>to_html()</code> function, but we better use the to_html function I wrote that makes working with the table much simpler.</p>
 
 </div>
@@ -12357,7 +12300,7 @@ Check out <a href="https://getbootstrap.com/docs/3.3/javascript/">the docs</a> f
 <span class="kn">from</span> <span class="nn">html_utils</span> <span class="k">import</span> <span class="n">to_html</span>
 
 <span class="n">data</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">&#39;sales_data.csv&#39;</span><span class="p">)</span>
-<span class="n">display</span><span class="p">(</span><span class="n">HTML</span><span class="p">(</span><span class="n">to_html</span><span class="p">(</span><span class="n">data</span><span class="o">.</span><span class="n">head</span><span class="p">(</span><span class="mi">10</span><span class="p">))))</span>
+<span class="n">display</span><span class="p">(</span><span class="n">HTML</span><span class="p">(</span><span class="n">to_html</span><span class="p">(</span><span class="n">data</span><span class="o">.</span><span class="n">head</span><span class="p">())))</span>
 </pre></div>
 
 </div>
@@ -12851,7 +12794,8 @@ is deprecated and will be removed in a future version
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>We can now display the image inside the html using an <img> tag:</p>
+<h2 id="Embedding-an-External-Image-File">Embedding an External Image File<a class="anchor-link" href="#Embedding-an-External-Image-File">&#182;</a></h2><p>Images are embedded in HTML using the <code>&lt;img&gt;</code> tag, with its <code>src</code> attribute pointing to the figure file (PNG/JPG etc).<br>
+We can display the image inside the html using an <code>&lt;img&gt;</code> tag:</p>
 <div class="highlight"><pre><span></span><span class="p">&lt;</span><span class="nt">img</span> <span class="na">src</span><span class="o">=</span><span class="s">&#39;figure_amount_won_by_month.png&#39;</span> <span class="p">/&gt;</span>
 </pre></div>
 
@@ -12884,6 +12828,35 @@ is deprecated and will be removed in a future version
 
 </div>
 
+</div>
+</div>
+
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Embed-an-Image-Inline-as-a-Base64-String">Embed an Image Inline as a Base64 String<a class="anchor-link" href="#Embed-an-Image-Inline-as-a-Base64-String">&#182;</a></h2>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">save_img_as_base64</span><span class="p">():</span>
+    <span class="kn">import</span> <span class="nn">io</span>
+    <span class="kn">import</span> <span class="nn">urllib</span><span class="o">,</span> <span class="nn">base64</span>
+    <span class="n">buf</span> <span class="o">=</span> <span class="n">io</span><span class="o">.</span><span class="n">BytesIO</span><span class="p">()</span>
+    <span class="n">plt</span><span class="o">.</span><span class="n">savefig</span><span class="p">(</span><span class="n">buf</span><span class="p">,</span> <span class="nb">format</span><span class="o">=</span><span class="s1">&#39;png&#39;</span><span class="p">)</span>
+    <span class="n">buf</span><span class="o">.</span><span class="n">seek</span><span class="p">(</span><span class="mi">0</span><span class="p">)</span>
+    <span class="n">string</span> <span class="o">=</span> <span class="n">base64</span><span class="o">.</span><span class="n">b64encode</span><span class="p">(</span><span class="n">buf</span><span class="o">.</span><span class="n">read</span><span class="p">())</span>
+    <span class="k">return</span> <span class="s1">&#39;data:image/png;base64,&#39;</span> <span class="o">+</span> <span class="n">urllib</span><span class="o">.</span><span class="n">parse</span><span class="o">.</span><span class="n">quote</span><span class="p">(</span><span class="n">string</span><span class="p">)</span>
+</pre></div>
+
+</div>
 </div>
 </div>
 
