@@ -11926,6 +11926,196 @@ The report should show:</p>
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
+<p>We're given a single file with all deals of all companies, including the:</p>
+<ul>
+<li>Company name</li>
+<li>Sales person</li>
+<li>Client name + Industry</li>
+<li>Deal status (Won / Lost / Nan)</li>
+<li>Deal size (amount in $)</li>
+</ul>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[27]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
+<span class="n">data</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">&#39;sales_data.csv&#39;</span><span class="p">)</span>
+<span class="n">data</span><span class="o">.</span><span class="n">head</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+<div class="prompt output_prompt">Out[27]:</div>
+
+
+<div class="output_html rendered_html output_subarea output_execute_result">
+<div>
+<style>
+    .dataframe thead tr:only-child th {
+        text-align: right;
+    }
+
+    .dataframe thead th {
+        text-align: left;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Unnamed: 0</th>
+      <th>date</th>
+      <th>company_name</th>
+      <th>sales_person</th>
+      <th>client</th>
+      <th>industry</th>
+      <th>status</th>
+      <th>amount</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>0</td>
+      <td>9/7/2017</td>
+      <td>Realbridge</td>
+      <td>Jami McGarvie</td>
+      <td>Runte Group</td>
+      <td>Motor Vehicles</td>
+      <td>NaN</td>
+      <td>170000</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>1</td>
+      <td>1/14/2017</td>
+      <td>Browsedrive</td>
+      <td>Romola Krugmann</td>
+      <td>Bernhard-Bogan</td>
+      <td>Specialty Insurers</td>
+      <td>NaN</td>
+      <td>230000</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>2</td>
+      <td>3/27/2017</td>
+      <td>Skinder</td>
+      <td>Amelie Buche</td>
+      <td>Grady, Gaylord and Mosciski</td>
+      <td>n/a</td>
+      <td>Lost</td>
+      <td>70000</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>3</td>
+      <td>2/22/2017</td>
+      <td>Realbridge</td>
+      <td>Darcie Felipe</td>
+      <td>Greenholt LLC</td>
+      <td>Industrial Machinery/Components</td>
+      <td>NaN</td>
+      <td>210000</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>4</td>
+      <td>5/7/2017</td>
+      <td>Browsedrive</td>
+      <td>Ami Perrottet</td>
+      <td>Hyatt, Dickens and West</td>
+      <td>Telecommunications Equipment</td>
+      <td>NaN</td>
+      <td>90000</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>5</td>
+      <td>11/6/2016</td>
+      <td>Skinder</td>
+      <td>Brit Duggan</td>
+      <td>Schaefer Inc</td>
+      <td>Catalog/Specialty Distribution</td>
+      <td>NaN</td>
+      <td>140000</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>6</td>
+      <td>10/18/2016</td>
+      <td>Realbridge</td>
+      <td>Corbet Strettell</td>
+      <td>Bernier, Quitzon and Hayes</td>
+      <td>Diversified Commercial Services</td>
+      <td>Lost</td>
+      <td>120000</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>7</td>
+      <td>7/14/2017</td>
+      <td>Browsedrive</td>
+      <td>Fina Crane</td>
+      <td>Hammes LLC</td>
+      <td>Motor Vehicles</td>
+      <td>NaN</td>
+      <td>160000</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>8</td>
+      <td>10/5/2016</td>
+      <td>Skinder</td>
+      <td>Waverly Demangeon</td>
+      <td>Mosciski, Yost and O'Kon</td>
+      <td>Specialty Insurers</td>
+      <td>Won</td>
+      <td>80000</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>9</td>
+      <td>2/14/2017</td>
+      <td>Realbridge</td>
+      <td>Zollie Graham</td>
+      <td>Feil Group</td>
+      <td>n/a</td>
+      <td>NaN</td>
+      <td>50000</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="The-perfect-Data-Science-report">The perfect Data Science report<a class="anchor-link" href="#The-perfect-Data-Science-report">&#182;</a></h2><ul>
 <li>Automatically created</li>
 <li>Interactive</li>
